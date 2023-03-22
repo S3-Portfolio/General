@@ -1,4 +1,4 @@
-###Cultural differences
+### Cultural differences
 In regards to our group project there is a clear subject of cultural differences between the Dutch and Finnish students. 
 
 And even within the Finnish group there are multiple cultures. 
