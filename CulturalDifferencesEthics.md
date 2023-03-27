@@ -1,8 +1,6 @@
 ### Cultural differences
 In regards to our group project there is a clear subject of cultural differences between the Dutch and Finnish students. 
-
 And even within the Finnish group there are multiple cultures. 
-
 This can have consequences for communication or decision making within the group. 
 
 *“The Dutch are frank, blunt, no-nonsense people. 
@@ -38,6 +36,8 @@ ask their opinion, giving them time and a place to speak their mind.
 And the Finnish should be more vocal towards the Dutch. 
 
 It should be stated that we have not encountered any problems (yet) with communication or decision making with the Finnish group and we hope it will stay this way throughout this project. 
+This could partly be due to the fact that most of our communication has gone through two of the international students: someone from Austria and someone from France.
+So the way these cultures communicate should also be taken into account.
 
 *"Austrians tend to be direct communicators, and don't usually “beat around the bush.” 
 They prefer speaking honestly and clearly to arrive at a point. 
@@ -59,6 +59,12 @@ Yet, debate is seen as a healthy process which will help to bring more ideas to 
 We welcome anyone who stimulates this energy in a discussion."*
 
 Constance Starcky [Source](https://medium.com/@Cocosy/5-french-character-traits-to-be-aware-of-128779a7bb74)
+
+Both Austrian and French people lean more towards the Dutch way of communicating rather than the Finnish way. 
+Though it can be said that someone from Austria may at first glance lean more towards the Finnish way, with them apearing reserved.
+When looking into these stereotypes, it becomes apparent why there hasn't been any hiccups with communication. 
+Though it's true that most (or let's be honest, all) of our communication has been through two of the international students from the Finnish side.
+When looking at the communication thus far, the basis of the stereotypes seems true. 
 
 ### Ethics
 When talking about ethics for our application, you can talk about two different subject regarding ethics; 
