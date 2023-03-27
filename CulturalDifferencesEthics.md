@@ -39,6 +39,27 @@ And the Finnish should be more vocal towards the Dutch.
 
 It should be stated that we have not encountered any problems (yet) with communication or decision making with the Finnish group and we hope it will stay this way throughout this project. 
 
+*"Austrians tend to be direct communicators, and don't usually “beat around the bush.” 
+They prefer speaking honestly and clearly to arrive at a point. 
+At first, they may appear reserved and value modesty in most interactions."*
+
+[Source](https://www.afsusa.org/countries/austria/#afs-nav-language)
+
+*"Frank friends are the best, as we say in France. 
+Frankness is a gift. 
+This is so strong in our culture that we welcome negative feedback and sometimes assess positive feedback as hypocritical. 
+This character trait may turn into a handicap as we may hurt other culture’s sensitivities.
+...
+We’re not afraid of asking questions. 
+We love to challenge the one who is speaking. 
+Everything can be subject to debate and discussion. 
+We are ready to challenge anything and everything.
+...
+Yet, debate is seen as a healthy process which will help to bring more ideas to the table. 
+We welcome anyone who stimulates this energy in a discussion."*
+
+Constance Starcky [Source](https://medium.com/@Cocosy/5-french-character-traits-to-be-aware-of-128779a7bb74)
+
 ### Ethics
 When talking about ethics for our application, you can talk about two different subject regarding ethics; 
 ethics for programmers and ethics for consumers. 
