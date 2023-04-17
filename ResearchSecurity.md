@@ -5,6 +5,11 @@ If you need inspiration, check out the OWASP top 10, as described [here](https:/
 #### [More information](https://fhict.instructure.com/courses/12992/pages/research-reports-bachelor-students-only?module_item_id=911565)
 
 #### questions
+What security concerns has my application?
+- What is my application?
+- Login security. [OWASP](https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/)
+- Traceable user security.
+
 #### methods
 #### execution
 #### results
