@@ -9,6 +9,7 @@ Which security concerns has my application?
 - What is my application?
 - Login security. [OWASP](https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/)
 - Traceable user security.
+- How to implement security?
 
 #### methods
 #### execution
