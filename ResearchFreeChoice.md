@@ -8,7 +8,7 @@ Which type of database suits my application best?
 - Why are these most popular / used?
 - What is SQL and noSQL?
 - When do you use an SQL or noSQL database?
-- What is my application?
+- What is my application? > Wat is er nodig voor mijn applicatie? / deelvragen meer betrekking laten hebben tot applicatie.
 
 What is the best way to implement an interactive map in my application?
 - What can be used to implement an interactive map?
