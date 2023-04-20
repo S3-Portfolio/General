@@ -29,6 +29,8 @@ Namely; having a potential user test the website, by letting them act out the us
 
 [Design choices](https://github.com/S3-Portfolio/General/blob/6bf6a92955f02302a7a73e62fde58c0cbf7e6053/Choices.md)
 
+[UI design](https://github.com/S3-Portfolio/General/blob/1a022b807e0eb27287c6dac0e17f54487a9be004/UI%20edited.png)
+
 7.	You analyze and describe simple business processes that are related to your project.
 
 [Analysis document](https://github.com/S3-Portfolio/General/blob/6bf6a92955f02302a7a73e62fde58c0cbf7e6053/Analysis.md)
