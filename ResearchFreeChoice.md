@@ -4,20 +4,18 @@ Every student selects a subject, relevant directly to one of the projects, or to
 
 #### questions
 Which type of database suits my application best?
+- What is my application?
 - Which types are most popular / used?
 - Why are these most popular / used?
 - What is SQL and noSQL?
 - When do you use an SQL or noSQL database?
-- What is my application? 
 
 Wat is er nodig voor mijn applicatie? / deelvragen meer betrekking laten hebben tot applicatie.
 
 What is the best way to implement an interactive map in my application?
-- What can be used to implement an interactive map?
-- What are the pros and cons of these methods?
 - What is the implementation in my application?
-
-volgorde omdraaien, doelgerichter vragen opstellen.
+- What can be used to implement an interactive map in my application?
+- What are the pros and cons of these methods in my application?
 
 #### methods
 #### execution
