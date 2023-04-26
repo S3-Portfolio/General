@@ -12,11 +12,6 @@ Which type of database suits my application best?
 
 Wat is er nodig voor mijn applicatie? / deelvragen meer betrekking laten hebben tot applicatie.
 
-What is the best way to implement an interactive map in my application?
-- What is the implementation in my application?
-- What can be used to implement an interactive map in my application?
-- What are the pros and cons of these methods in my application?
-
 #### methods
 #### execution
 #### results
