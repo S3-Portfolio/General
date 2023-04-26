@@ -41,6 +41,6 @@ Namely; having a potential user test the website, by letting them act out the us
 
 [Research security](https://github.com/S3-Portfolio/General/blob/6bf6a92955f02302a7a73e62fde58c0cbf7e6053/ResearchSecurity.md)
 
-[Research free choice](https://github.com/S3-Portfolio/General/blob/6bf6a92955f02302a7a73e62fde58c0cbf7e6053/ResearchFreeChoice.md)
+[Research database](https://github.com/S3-Portfolio/General/blob/1558abde3a612318fcfc7f24fe8501895235337a/ResearchDatabase.md)
 
 [Feedpulse](https://fhict.instructure.com/courses/12992/external_tools/1067)
