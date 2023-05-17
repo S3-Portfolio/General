@@ -43,6 +43,6 @@ Namely; having a potential user test the website, by letting them act out the us
 
 [Research database](https://github.com/S3-Portfolio/General/blob/4aedd28ca9874744bf038afd590793d6f41d4d3c/ResearchDatabase.md)
 
-[Research map](https://github.com/S3-Portfolio/General/blob/999ae7a2b995dd12a90af8077c78d10f255c8c7c/ResearchMap.md)
+[Research map](https://github.com/S3-Portfolio/General/blob/2bed632e4f1b88b9198c911d99a4de62b886d2a2/ResearchMap.md)
 
 [Feedpulse](https://fhict.instructure.com/courses/12992/external_tools/1067)
