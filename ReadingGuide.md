@@ -39,7 +39,7 @@ Namely; having a potential user test the website, by letting them act out the us
 
 8.	You act in a professional manner during software development and learning.
 
-[Research security](https://github.com/S3-Portfolio/General/blob/6bf6a92955f02302a7a73e62fde58c0cbf7e6053/ResearchSecurity.md)
+[Research security](https://github.com/S3-Portfolio/General/blob/31d82df614daecb053c0043058df8bfad80de2c8/ResearchSecurity.md)
 
 [Research database](https://github.com/S3-Portfolio/General/blob/4aedd28ca9874744bf038afd590793d6f41d4d3c/ResearchDatabase.md)
 
