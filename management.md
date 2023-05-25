@@ -2,17 +2,17 @@
 ### Agile, why and how?
 [Source](https://fhict.instructure.com/courses/13025/pages/project-management-agile-why-and-how?module_item_id=916357)
 #### Individual:
-What does it mean agile development, the agile manifesto, the agile principles?
+* What does it mean agile development, the agile manifesto, the agile principles?
 
-Which agile methods exist and which are most popular?
+* Which agile methods exist and which are most popular?
 
-Can you explain Scrum in full details, as it is by the book?
+* Can you explain Scrum in full details, as it is by the book?
 
-Can you explain two more agile methods and name a number of interesting features in them different from Scrum?
+* Can you explain two more agile methods and name a number of interesting features in them different from Scrum?
 
-Do you know how software engineers work in practice with agile methods? (to answer this question, we advise that you arrange a visit to a company)
+* Do you know how software engineers work in practice with agile methods? (to answer this question, we advise that you arrange a visit to a company)
 
-Which agile management tool would you recommend for use in your project and why?
+* Which agile management tool would you recommend for use in your project and why?
 
 
 #### Group: 
@@ -38,15 +38,15 @@ A project plan made by the whole group. Follow the template provided below. Get 
 ### Can you work with people from other cultures?
 [Source](https://fhict.instructure.com/courses/13025/pages/group-management-can-you-work-with-people-from-other-cultures?module_item_id=916360)
 #### Individual:
-What is culture?
+* What is culture?
 
-Which are well-known dimensions on cultural differences?
+* Which are well-known dimensions on cultural differences?
 
-Can you give examples for cultural differences that you have experienced in your study or life?
+* Can you give examples for cultural differences that you have experienced in your study or life?
 
-How do you explain these differences?
+* How do you explain these differences?
 
-What is your culture?
+* What is your culture?
 
 
 #### Group:
