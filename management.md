@@ -4,6 +4,18 @@
 #### Individual:
 * What does it mean agile development, the agile manifesto, the agile principles?
 
+Definition agile development: 
+"Agile software development is an umbrella term for a set of frameworks and practices based on the values and principles expressed in the Manifesto for Agile Software Development and the 12 Principles behind it." 
+[Source](https://www.agilealliance.org/agile101/)
+
+Definition agile manifesto: 
+"The Agile Manifesto is a brief document built on 4 values and 12 principles for agile software development."
+[Source](https://www.productplan.com/glossary/agile-manifesto/)
+
+Definition agile principles:
+"The 12 agile principles can support businesses to streamline their product-development cycles and achieve better results through a flexible, reactive system."
+[Source](https://airfocus.com/glossary/what-are-agile-principles/#:~:text=Agile%20principles%20unify%20different%20departments,a%20good%20product%2Dmarket%20fit.)
+
 * Which agile methods exist and which are most popular?
 
 * Can you explain Scrum in full details, as it is by the book?
