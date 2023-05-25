@@ -2,10 +2,16 @@
 ### Stakeholder analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/stakeholder-analysis-who-has-a-stake-in-the-project-and-in-the-software?module_item_id=916361)
 #### Individual:
-What is a stakeholder?
+* What is a stakeholder?
 
-Who are the stakeholders in your project and what are their goals and constraints?
+"A person with an interest or concern in something, especially a business." [Source](https://languages.oup.com/google-dictionary-en/)
 
+* Who are the stakeholders in your project and what are their goals and constraints?
+
+In my personal project the stakeholders would include: the teachers, future users, me, myself and I.
+As I am both the stakeholder and the developer, my goals are developing as many user stories and my constraints would be time and the need to focus on other things besides the user stories.
+The teachers' goals are to see me succeed (at least I hope) and to see an end product.
+Their constraints would be their role as theacher, because they have to grade my project instead of just being the stakeholder.
 
 #### Group:
 You have identified and analysed your stakeholders – their goals, constraints, stakes.
@@ -13,10 +19,19 @@ You have identified and analysed your stakeholders – their goals, constraints,
 ### Process analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/process-analysis-which-processes-are-supported-by-your-software?module_item_id=916362)
 #### Individual:
-What is a business process?
+*What is a business process?
 
-How a business process relates to software applications?
+"A business process is an activity or set of activities that accomplish a specific organizational goal. 
+Business processes should have purposeful goals, be as specific as possible and produce consistent outcomes."
+[Source](https://www.techtarget.com/searchcio/definition/business-process)
 
+*How does a business process relate to software applications?
+
+Software development is a rapidly changing field and with those changes comes changes in the BPM (Business Process Manegement).
+These changes in BPM are than adapted by other fields and slowly change into the standard. 
+So the development of software applications help improve BPM, thus you could say that a business process relates to software applications by means of improving with new developments being made in the field of software. 
+
+[Source](https://itchronicles.com/business-process-management/business-process-management-in-software-companies/)
 
 #### Group:
 You have analysed and modelled an existing business process from your project prior to the introduction of the software that you are creating. Your model visualizes the process, including information aspects (data used / produced in the activities), and roles (who does which activity).
@@ -39,11 +54,14 @@ Which steps of the process does your software support / automate? Can you visual
 ### Requirements analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/requirements-analysis-what-do-you-have-to-make?module_item_id=916363)
 #### Individual:
-What are non-functional requirements?
+* What are non-functional requirements?
 
-How do you specify functional and non-functional requirements in your agile method and how do you validate them?
+"A non-functional requirement (NFR) is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours."
+[Source](https://en.wikipedia.org/wiki/Non-functional_requirement)
 
-When do you elicit and specify the requirements in your agile method? Are you allowed to change or update them?
+* How do you specify functional and non-functional requirements in your agile method and how do you validate them?
+
+* When do you elicit and specify the requirements in your agile method? Are you allowed to change or update them?
 
 
 #### Group:
@@ -65,13 +83,13 @@ How and where did you specify and validate them?
 ### Ethics analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=916364)
 #### Individual:
-What is ethics in software engineering?
+* What is ethics in software engineering?
 
-Why is ethics important in software engineering?
+* Why is ethics important in software engineering?
 
-What do you have to do as a software engineer to address ethical aspects in your work?
+* What do you have to do as a software engineer to address ethical aspects in your work?
 
-How do you know that your ethical considerations match with those of other software engineers?
+* How do you know that your ethical considerations match with those of other software engineers?
 
 
 #### Group:
