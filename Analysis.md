@@ -19,13 +19,13 @@ You have identified and analysed your stakeholders – their goals, constraints,
 ### Process analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/process-analysis-which-processes-are-supported-by-your-software?module_item_id=916362)
 #### Individual:
-*What is a business process?
+* What is a business process?
 
 "A business process is an activity or set of activities that accomplish a specific organizational goal. 
 Business processes should have purposeful goals, be as specific as possible and produce consistent outcomes."
 [Source](https://www.techtarget.com/searchcio/definition/business-process)
 
-*How does a business process relate to software applications?
+* How does a business process relate to software applications?
 
 Software development is a rapidly changing field and with those changes comes changes in the BPM (Business Process Manegement).
 These changes in BPM are than adapted by other fields and slowly change into the standard. 
