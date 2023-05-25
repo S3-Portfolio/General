@@ -15,6 +15,8 @@ Namely; having a potential user test the website, by letting them act out the us
 
 [Planning](https://github.com/orgs/S3-Portfolio/projects/1)
 
+[Management document](https://github.com/S3-Portfolio/General/blob/6bf6a92955f02302a7a73e62fde58c0cbf7e6053/management.md)
+
 4.	You design and implement a (semi)automated software release process that matches the needs of the project context.
 
 [CI/CD Front-end](https://github.com/S3-Portfolio/Front-end/actions)
