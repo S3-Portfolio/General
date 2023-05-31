@@ -42,13 +42,15 @@ You have modelled the new process including data and role aspects in it and expl
 
 
 #### Project:
-Does your software automate a task, facilitate a task, or make a new task possible to perform?
+* Does your software automate a task, facilitate a task, or make a new task possible to perform?
 
-Which is the process that your software supports / automate? Can you visualize it in a diagram?
+My project facilitates a task, because my website is a source of information and it makes searching for fishes or dives easier.
 
-Which roles are involves in this process? The work of which people (their roles) will this software influence?
+* Which is the process that your software supports / automate? Can you visualize it in a diagram?
 
-Which steps of the process does your software support / automate? Can you visualize the new process in a diagram?
+* Which roles are involves in this process? The work of which people (their roles) will this software influence?
+
+* Which steps of the process does your software support / automate? Can you visualize the new process in a diagram?
 
  
 ### Requirements analysis
@@ -61,8 +63,18 @@ Which steps of the process does your software support / automate? Can you visual
 
 * How do you specify functional and non-functional requirements in your agile method and how do you validate them?
 
+Specifying functional and non-functional requirements in agile requires creating SMART user stories, defining acceptance criteria and prioritizing requirements. Validating functional and non-functional requirements in agile requires conducting regular reviews and walkthroughs, testing the user stories, and establishing a continuous feedback loop between the development team and the stakeholders. 
+Non-functional requirements should be treated as user stories and written with the same level of detail as functional requirements.
+
+[link.springer.com](https://link.springer.com/chapter/10.1007/978-3-030-67084-9_6) ,
+[researchgate.net](https://www.researchgate.net/publication/353752219_Managing_non-functional_requirements_in_agile_software_development)
+
 * When do you elicit and specify the requirements in your agile method? Are you allowed to change or update them?
 
+Requirement elicitation and specification are continuous processes in agile software development that are done collaboratively with the stakeholders in an iterative and incremental manner. Requirements can be changed or updated throughout the development lifecycle in response to feedback from the stakeholders, changes in the business environment, or new insights gained during the development process. Changes to requirements are documented in the requirements specification and communicated to the stakeholders to ensure that everyone is on the same page.
+
+[techtarget.com](https://www.techtarget.com/searchsoftwarequality/tip/7-techniques-for-better-Agile-requirements-gathering) ,
+[t2informatik.de](https://t2informatik.de/en/blog/requirements-specifications-in-an-agile-environment/)
 
 #### Group:
 You have contributed to the requirements collection and elicitation.
@@ -73,11 +85,11 @@ You have contributed to the translation of the requirements to the project archi
 
 
 #### Project:
-What are the non-functional and functional requirements in your project?
+* What are the non-functional and functional requirements in your project?
 
-How did you come up with them?
+* How did you come up with them?
 
-How and where did you specify and validate them?
+* How and where did you specify and validate them?
 
 
 ### Ethics analysis
@@ -85,20 +97,33 @@ How and where did you specify and validate them?
 #### Individual:
 * What is ethics in software engineering?
 
+Ethics in software engineering refers to the principles and values that guide the behavior of software engineers when designing, developing, testing, and maintaining software. Ethical considerations in software engineering include fairness, honesty, nonmaleficence, and beneficence, and should be integrated into the software development lifecycle. The Software Engineering Code of Ethics provides a set of guidelines for software engineers to follow when making ethical decisions.
+
+[fellow.app](https://fellow.app/blog/engineering/engineering-everything-you-need-to-know-about-software-engineering-ethics/)
+
 * Why is ethics important in software engineering?
+
+Ethics in software engineering is important to ensure that software engineers work responsibly and effectively, create products that are safe and respectful of human dignity, prioritize public safety, and meet ethical standards.
+
+[link.springer.com](https://link.springer.com/article/10.1007/s11948-015-9665-x) ,
+[researchgate.net](https://www.researchgate.net/publication/227991826_Software_Engineering_Ethics)
 
 * What do you have to do as a software engineer to address ethical aspects in your work?
 
+A software engineer has to think about the ethics of their work, therefor they have to engage in deliberations about ethics and familiarize themself with the code of ethics. 
+The most important thing is to make ethics a common topic and to be mindfull of the etics surrounding your work. 
+
 * How do you know that your ethical considerations match with those of other software engineers?
 
+As stated before, a software engineer has to communicate about ethical aspects regarding their work. 
+When they are familiar with the code of ethics, they can discuss this with other software engineers to get feedback.
 
 #### Group:
 You have made an analysis of the ethical aspects of your application.
 
-
 #### Project:
-Which ethical aspects play a role in your project?
+* Which ethical aspects play a role in your project?
 
-Do you foresee ethical conflicts caused by your software? What kind of?
+* Do you foresee ethical conflicts caused by your software? What kind of?
 
-Can you do something to avoid or minimize these conflicts?
+* Can you do something to avoid or minimize these conflicts?
