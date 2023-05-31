@@ -52,7 +52,16 @@ A project plan made by the whole group. Follow the template provided below. Get 
 #### Individual:
 * What is culture?
 
+"Culture is a term that encompasses a wide range of social behaviors, institutions, norms, values, beliefs, arts, laws, customs, capabilities, and habits found in human societies."
+[Source](https://en.wikipedia.org/wiki/Culture)
+
 * Which are well-known dimensions on cultural differences?
+
+Well-known dimensions of cultural differences include those identified by Hofstede's cultural dimensions theory, the Seven Dimensions of Culture model, and other dimensions such as power distance, uncertainty avoidance, and gender egalitarianism.
+
+[corporatefinanceinstitute.com](https://corporatefinanceinstitute.com/resources/management/hofstedes-cultural-dimensions-theory/) ,
+[mindtools.com](https://www.mindtools.com/a5ce21r/the-seven-dimensions-of-culture) ,
+[courses.lumenlearning.com](https://courses.lumenlearning.com/wm-principlesofmanagement/chapter/dimensions-of-cultural-difference-and-their-effect/)
 
 * Can you give examples for cultural differences that you have experienced in your study or life?
 
@@ -68,5 +77,5 @@ You have applied the theory in a practical situation (preferably in your group, 
 
 
 #### Project:
-What did you do to improve the group communications with respect to cultural differences?
+* What did you do to improve the group communications with respect to cultural differences?
 
