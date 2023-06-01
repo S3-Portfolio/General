@@ -48,7 +48,8 @@ I have also added a achitecture model, although the model is not very complex.
 
 [UI design](https://github.com/S3-Portfolio/General/blob/1a022b807e0eb27287c6dac0e17f54487a9be004/UI%20edited.png)
 
-[Architecture model](https://github.com/S3-Portfolio/General/blob/0e78fec9ec13177ee23d3db9168cf89ba1593fa4/ArchitectureModel.drawio.png)
+![ArchitectureModel drawio](https://github.com/S3-Portfolio/General/assets/93527848/2c2cbfec-f37b-4ed4-83e8-d9a92c72bd2f)
+
 
 7.	You analyze and describe simple business processes that are related to your project.
 
