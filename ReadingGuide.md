@@ -54,6 +54,8 @@ I have also added a achitecture model, although the model is not very complex.
 
 My backend is C# / REST API / frontend React in JavaScript
 
+(C4 model bekijken. Uitleggen wat ik wil laten zien.)
+
 **7.	You analyze and describe simple business processes that are related to your project.**
 
 Have been working on both my analysis and management documents.
