@@ -93,37 +93,4 @@ You have contributed to the translation of the requirements to the project archi
 
 
 ### Ethics analysis
-[Source](https://fhict.instructure.com/courses/13025/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=916364)
-#### Individual:
-* What is ethics in software engineering?
-
-Ethics in software engineering refers to the principles and values that guide the behavior of software engineers when designing, developing, testing, and maintaining software. Ethical considerations in software engineering include fairness, honesty, nonmaleficence, and beneficence, and should be integrated into the software development lifecycle. The Software Engineering Code of Ethics provides a set of guidelines for software engineers to follow when making ethical decisions.
-
-[fellow.app](https://fellow.app/blog/engineering/engineering-everything-you-need-to-know-about-software-engineering-ethics/)
-
-* Why is ethics important in software engineering?
-
-Ethics in software engineering is important to ensure that software engineers work responsibly and effectively, create products that are safe and respectful of human dignity, prioritize public safety, and meet ethical standards.
-
-[link.springer.com](https://link.springer.com/article/10.1007/s11948-015-9665-x) ,
-[researchgate.net](https://www.researchgate.net/publication/227991826_Software_Engineering_Ethics)
-
-* What do you have to do as a software engineer to address ethical aspects in your work?
-
-A software engineer has to think about the ethics of their work, therefor they have to engage in deliberations about ethics and familiarize themself with the code of ethics. 
-The most important thing is to make ethics a common topic and to be mindfull of the etics surrounding your work. 
-
-* How do you know that your ethical considerations match with those of other software engineers?
-
-As stated before, a software engineer has to communicate about ethical aspects regarding their work. 
-When they are familiar with the code of ethics, they can discuss this with other software engineers to get feedback.
-
-#### Group:
-You have made an analysis of the ethical aspects of your application.
-
-#### Project:
-* Which ethical aspects play a role in your project?
-
-* Do you foresee ethical conflicts caused by your software? What kind of?
-
-* Can you do something to avoid or minimize these conflicts?
+[Ethics document](https://github.com/S3-Portfolio/General/blob/ff59881171e8ffb3f35be817bea1122dc8eff051/CulturalDifferencesEthics.md)
