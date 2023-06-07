@@ -5,20 +5,60 @@ How would someone get my application from / through Docker?
 "490511/divespot:latest"
 
 Docker desktop:
+
 ![image](https://github.com/S3-Portfolio/General/assets/93527848/d67de17b-e907-44d1-8174-e25656503595)
 
 Frontend Docker file:
+
 ![image](https://github.com/S3-Portfolio/General/assets/93527848/cf0de743-1679-460f-8e62-b07fc41c38c7)
 
 Frontend Workflow file:
 
+```
+name: Main
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+   
+  deployment:
+    name: deployment
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+      - name: Login to DockerHub
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKER_HUB_USERNAME }}
+          password: ${{ secrets.DOCKER_HUB_PASSWORD }}
+      - name: Build and push
+        uses: docker/build-push-action@v2
+        with:
+          context: ./divespot/
+          file: ./divespot/Dockerfile
+          push: ${{ github.event_name != 'pull_request' }}
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/divespot_fe:latest 
+``` 
 
 Backend Docker file:
+
 ![image](https://github.com/S3-Portfolio/General/assets/93527848/6e393bab-9caa-4c4d-b59e-eaef3b060388)
 
 Backend Workflow file:
-`
 
+```
   name: .NET Core Desktop
   on:
    push:
@@ -88,5 +128,4 @@ Backend Workflow file:
       with:
         name: MSIX Package
         path: ${{ env.Wap_Project_Directory }}\AppPackages
-
-`
+```
