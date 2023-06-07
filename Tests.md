@@ -67,3 +67,11 @@ I was already planning on doing a manual test for my application, because I know
 * How would I carry out these tests?
 
 The manual test will be carried out by running my application, letting the user read the user story and have them try to recreate the user story with my application. I will then write down any remarks the user gives and put this towards completing my user stories.
+
+* Results
+
+The manual test was performed on 6-6-2023.
+The user was able to complete the user stories, but explained that there was some confusion about the information on my website.
+This is because there is no styling in place.
+Therefore the user was able to get to the information page, but could not make out what the information was. 
+Refining the UI would solve this problem with an usability test to make sure my UI is good.
