@@ -4,6 +4,8 @@ How would someone get my application from / through Docker?
 
 "490511/divespot:latest"
 
+(Github kijken voor voor inspiratie over hoe docker)
+
 Docker desktop:
 
 ![image](https://github.com/S3-Portfolio/General/assets/93527848/d67de17b-e907-44d1-8174-e25656503595)
