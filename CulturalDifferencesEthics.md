@@ -84,6 +84,37 @@ That is why we have listings with personal information about each animal individ
 [Source](https://www.acm.org/code-of-ethics)
 
 ----------------------
+[Source](https://fhict.instructure.com/courses/13025/pages/group-management-can-you-work-with-people-from-other-cultures?module_item_id=916360)
+#### Individual:
+* What is culture?
+
+"Culture is a term that encompasses a wide range of social behaviors, institutions, norms, values, beliefs, arts, laws, customs, capabilities, and habits found in human societies."
+[Source](https://en.wikipedia.org/wiki/Culture)
+
+* Which are well-known dimensions on cultural differences?
+
+Well-known dimensions of cultural differences include those identified by Hofstede's cultural dimensions theory, the Seven Dimensions of Culture model, and other dimensions such as power distance, uncertainty avoidance, and gender egalitarianism.
+
+[corporatefinanceinstitute.com](https://corporatefinanceinstitute.com/resources/management/hofstedes-cultural-dimensions-theory/) ,
+[mindtools.com](https://www.mindtools.com/a5ce21r/the-seven-dimensions-of-culture) ,
+[courses.lumenlearning.com](https://courses.lumenlearning.com/wm-principlesofmanagement/chapter/dimensions-of-cultural-difference-and-their-effect/)
+
+* Can you give examples for cultural differences that you have experienced in your study or life?
+
+* How do you explain these differences?
+
+* What is your culture?
+
+
+#### Group:
+You have studied a subset of the materials provided below.
+
+You have applied the theory in a practical situation (preferably in your group, but if this is not applicable then in your daily life).
+
+
+#### Project:
+* What did you do to improve the group communications with respect to cultural differences?
+-------------------
 [Source](https://fhict.instructure.com/courses/13025/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=916364)
 #### Individual:
 * What is ethics in software engineering?
