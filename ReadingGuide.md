@@ -31,6 +31,8 @@ Both frontend and backend are in Docker, but not deployed.
 
 [CI/CD Back-end](https://github.com/S3-Portfolio/Back-end/actions)
 
+[Docker document](https://github.com/S3-Portfolio/General/blob/a17a9edf6844c15e117ae70e2ab5dfa968136944/Docker.md)
+
 **5.	You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.**
 
 I have written about cultural differences and ethics in my managament document as well as made a seperate document going into more detail about cultural differences and ethics. 
