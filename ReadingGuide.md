@@ -50,6 +50,7 @@ I have also added a achitecture model, although the model is not very complex.
 
 ![ArchitectureModel drawio](https://github.com/S3-Portfolio/General/assets/93527848/2c2cbfec-f37b-4ed4-83e8-d9a92c72bd2f)
 
+My backend is C# / REST API / frontend React in JavaScript
 
 7.	You analyze and describe simple business processes that are related to your project.
 
