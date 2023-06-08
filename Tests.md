@@ -55,9 +55,11 @@ Testplan for Unit tests:
 Testplan for Integration tests:
 
 |Test case ID|Test case objective|Test case description|Expected result|
-| ----------- | ----------- | ------------ | --------- | 
-|1|Check the interface link between the Login and Mailbox module|Enter login credentials and click on the Login button|To be directed to the Mail Box|
-|2|Check the interface link between the Mailbox and Delete Mails Module|From Mailbox select the email and click a delete button|Selected email should appear in the Deleted/Trash folder|
+|------------|-------------------|---------------------|---------------| 
+|1| Check if the GetFish endpoint returns the expexted result| Call the GetFish endpoint and compare this to the mocked data| The GetFish endpoint returns the same list as the mocked data|
+|2| Check if the PostFish endpoint add a fish to the database| Call the PostFish endpoint and look in the mocked data to see if it added correctly| The PostFish endpoint adds a fish correctly to the database|
+|3| Check if the PutFish endpoint updates a fish in the database| Call the PutFish endpoint and look in the mocked data to see if the data changed| The PutFish endpoint updates the data of a fish correctly|
+|4| Check if the DeleteFish endpoint deletes a fish from the database| Call the DeleteFish endpoint and compare the mocked data to the original list| The DeleteFish endpoint removes a fish from the database correctly|
 
 * Results
 
