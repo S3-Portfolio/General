@@ -45,8 +45,17 @@ I would write the Unit tests with ...
 
 Testplan for Unit tests:
 
+|Test case ID|Test case objective|Test case description|Expected result|
+|------------|-------------------|---------------------|---------------| 
+|1| Check if the GetFish function returns the expexted result| Call the GetFish function and compare this to the mocked data| The GetFish function returns the same list as the mocked data|
+|2| | | |
+
 Testplan for Integration tests:
 
+|Test case ID|Test case objective|Test case description|Expected result|
+| ----------- | ----------- | ------------ | --------- | 
+|1|Check the interface link between the Login and Mailbox module|Enter login credentials and click on the Login button|To be directed to the Mail Box|
+|2|Check the interface link between the Mailbox and Delete Mails Module|From Mailbox select the email and click a delete button|Selected email should appear in the Deleted/Trash folder|
 
 * Results
 
