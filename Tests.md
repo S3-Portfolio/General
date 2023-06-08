@@ -48,7 +48,9 @@ Testplan for Unit tests:
 |Test case ID|Test case objective|Test case description|Expected result|
 |------------|-------------------|---------------------|---------------| 
 |1| Check if the GetFish function returns the expexted result| Call the GetFish function and compare this to the mocked data| The GetFish function returns the same list as the mocked data|
-|2| | | |
+|2| Check if the PostFish function add a fish to the database| Call the PostFish function and look in the mocked data to see if it added correctly| The PostFish function adds a fish correctly to the database|
+|3| Check if the PutFish function updates a fish in the database| Call the PutFish function and look in the mocked data to see if the data changed| The PutFish function updates the data of a fish correctly|
+|4| Check if the DeleteFish function deletes a fish from the database| Call the DeleteFish function and compare the mocked data to the original list| The DeleteFish function removes a fish from the database correctly|
 
 Testplan for Integration tests:
 
