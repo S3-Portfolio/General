@@ -6,7 +6,9 @@ How would someone get my application from / through Docker?
 
 (Github kijken voor voor inspiratie over hoe docker)
 
--------------------
+[Share docker application](https://docs.docker.com/get-started/04_sharing_app/)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Docker desktop:
 
@@ -77,7 +79,7 @@ Backend Workflow file:
     runs-on: windows-latest  
     env:
       Solution_Name: DiveSpot                  
-      Test_Project_Path: your-test-project-path           
+      Test_Project_Path: DiveSpot.Tests         
       Wap_Project_Directory: DiveSpot  
       Wap_Project_Path: DiveSpot             
 
@@ -97,8 +99,8 @@ Backend Workflow file:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v1.0.2
 
-    # Execute all unit tests in the solution
-    - name: Execute unit tests
+    # Execute all tests in the solution
+    - name: Execute tests
       run: dotnet test
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
