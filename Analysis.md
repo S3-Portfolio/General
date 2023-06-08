@@ -1,46 +1,36 @@
 # Analysis document
 ### Stakeholder analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/stakeholder-analysis-who-has-a-stake-in-the-project-and-in-the-software?module_item_id=916361)
-#### Individual:
-* What is a stakeholder?
-
+#### What is a stakeholder?
 "A person with an interest or concern in something, especially a business." [Source](https://languages.oup.com/google-dictionary-en/)
 
-* Who are the stakeholders in your project and what are their goals and constraints?
-
+#### Who are the stakeholders in your project and what are their goals and constraints?
 In my personal project the stakeholders would include: the teachers, future users, me, myself and I.
 As I am both the stakeholder and the developer, my goals are developing as many user stories and my constraints would be time and the need to focus on other things besides the user stories.
 The teachers' goals are to see me succeed (at least I hope) and to see an end product.
 Their constraints would be their role as theacher, because they have to grade my project instead of just being the stakeholder.
 
-#### Group:
-You have identified and analysed your stakeholders – their goals, constraints, stakes.
-
+##### You have identified and analysed your stakeholders – their goals, constraints, stakes.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Process analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/process-analysis-which-processes-are-supported-by-your-software?module_item_id=916362)
-#### Individual:
-* What is a business process?
-
+#### What is a business process?
 "A business process is an activity or set of activities that accomplish a specific organizational goal. 
 Business processes should have purposeful goals, be as specific as possible and produce consistent outcomes."
 [Source](https://www.techtarget.com/searchcio/definition/business-process)
 
-* How does a business process relate to software applications?
-
+#### How does a business process relate to software applications?
 Software development is a rapidly changing field and with those changes comes changes in the BPM (Business Process Manegement).
 These changes in BPM are than adapted by other fields and slowly change into the standard. 
 So the development of software applications help improve BPM, thus you could say that a business process relates to software applications by means of improving with new developments being made in the field of software. 
 
 [Source](https://itchronicles.com/business-process-management/business-process-management-in-software-companies/)
 
-#### Group:
-You have analysed and modelled an existing business process from your project prior to the introduction of the software that you are creating. Your model visualizes the process, including information aspects (data used / produced in the activities), and roles (who does which activity).
-
-You have analysed the process and drew conclusions on possible improvements in it (by means of introduction of your application).
-
-You have modelled the new process including data and role aspects in it and explained which activities are automated or supported by your application how this changes the work of the roles involved in the process.
-
-
+##### You have analysed and modelled an existing business process from your project prior to the introduction of the software that you are creating. 
+##### Your model visualizes the process, including information aspects (data used / produced in the activities), and roles (who does which activity).
+##### You have analysed the process and drew conclusions on possible improvements in it (by means of introduction of your application).
+##### You have modelled the new process including data and role aspects in it and explained which activities are automated or supported by your application how this changes the work of the roles involved in the process.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Project:
 * Does your software automate a task, facilitate a task, or make a new task possible to perform?
 
@@ -51,46 +41,39 @@ My project facilitates a task, because my website is a source of information and
 * Which roles are involves in this process? The work of which people (their roles) will this software influence?
 
 * Which steps of the process does your software support / automate? Can you visualize the new process in a diagram?
-
- 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Requirements analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/requirements-analysis-what-do-you-have-to-make?module_item_id=916363)
-#### Individual:
-* What are non-functional requirements?
+#### What are non-functional requirements?
 
 "A non-functional requirement (NFR) is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours."
 [Source](https://en.wikipedia.org/wiki/Non-functional_requirement)
 
-* How do you specify functional and non-functional requirements in your agile method and how do you validate them?
-
+#### How do you specify functional and non-functional requirements in your agile method and how do you validate them?
 Specifying functional and non-functional requirements in agile requires creating SMART user stories, defining acceptance criteria and prioritizing requirements. Validating functional and non-functional requirements in agile requires conducting regular reviews and walkthroughs, testing the user stories, and establishing a continuous feedback loop between the development team and the stakeholders. 
 Non-functional requirements should be treated as user stories and written with the same level of detail as functional requirements.
 
 [link.springer.com](https://link.springer.com/chapter/10.1007/978-3-030-67084-9_6) ,
 [researchgate.net](https://www.researchgate.net/publication/353752219_Managing_non-functional_requirements_in_agile_software_development)
 
-* When do you elicit and specify the requirements in your agile method? Are you allowed to change or update them?
-
+#### When do you elicit and specify the requirements in your agile method? Are you allowed to change or update them?
 Requirement elicitation and specification are continuous processes in agile software development that are done collaboratively with the stakeholders in an iterative and incremental manner. Requirements can be changed or updated throughout the development lifecycle in response to feedback from the stakeholders, changes in the business environment, or new insights gained during the development process. Changes to requirements are documented in the requirements specification and communicated to the stakeholders to ensure that everyone is on the same page.
 
 [techtarget.com](https://www.techtarget.com/searchsoftwarequality/tip/7-techniques-for-better-Agile-requirements-gathering) ,
 [t2informatik.de](https://t2informatik.de/en/blog/requirements-specifications-in-an-agile-environment/)
 
-#### Group:
-You have contributed to the requirements collection and elicitation.
+##### You have contributed to the requirements collection and elicitation.
 
-You have contributed to the translation of the requirements to User stories.
+##### You have contributed to the translation of the requirements to User stories.
 
-You have contributed to the translation of the requirements to the project architecture and designs.
-
-
+##### You have contributed to the translation of the requirements to the project architecture and designs.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Project:
 * What are the non-functional and functional requirements in your project?
 
 * How did you come up with them?
 
 * How and where did you specify and validate them?
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Ethics analysis
 [Ethics document](https://github.com/S3-Portfolio/General/blob/ff59881171e8ffb3f35be817bea1122dc8eff051/CulturalDifferencesEthics.md)
