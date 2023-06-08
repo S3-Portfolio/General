@@ -50,9 +50,9 @@ I have also added a achitecture model, although the model is not very complex.
 
 [UI design](https://github.com/S3-Portfolio/General/blob/1a022b807e0eb27287c6dac0e17f54487a9be004/UI%20edited.png)
 
-![ArchitectureModel drawio](https://github.com/S3-Portfolio/General/assets/93527848/2c2cbfec-f37b-4ed4-83e8-d9a92c72bd2f)
+![C4_1 drawio](https://github.com/S3-Portfolio/General/assets/93527848/d7b00d9a-9c96-47e3-9dde-3407f29b7a81)
 
-My backend is C# / REST API / frontend React in JavaScript
+![C4_2 drawio](https://github.com/S3-Portfolio/General/assets/93527848/3709ec7b-f580-40c9-bbac-fd71aeb89eb8)
 
 (C4 model bekijken. Uitleggen wat ik wil laten zien.)
 
