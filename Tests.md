@@ -37,9 +37,7 @@ I want to do Unit testing, because this tests the individual units in my applica
 I want to do Integration testing, because this is a step further from Unit testing and tests if the interfaces & flow of data/information between the modules is correct. 
 Unit testing is done before Integration testing, because you first need to know there are no error in de modules themselves, before testing if the modules communicate properly.
 
-I would write the Unit tests with XUnit, because XUnit is (in my humble opinion) better than MSTest and I have worked with XUnit before.
-
-I would write the Unit tests with ...
+I would write the Unit and Integration tests with XUnit, because XUnit is (in my humble opinion) better than MSTest and I have worked with XUnit before.
 
 * Testplan
 
