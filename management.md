@@ -21,14 +21,14 @@ Definition agile principles:
 
 #### Can you explain two more agile methods and name a number of interesting features in them different from Scrum?
 
-#### Do you know how software engineers work in practice with agile methods? (to answer this question, we advise that you arrange a visit to a company)
+#### Do you know how software engineers work in practice with agile methods?
 
 #### Which agile management tool would you recommend for use in your project and why?
 
-##### You have fully implemented an agile method (possibly augmented with elements from other agile methods) in your project and demonstrated your expertise in it.
+##### You have fully implemented an agile method in your project and demonstrated your expertise in it.
 
 ##### You have selected an agile management tool of sufficient quality and have used it in your project to plan, report, and monitor your work.
-
+We use Trello in our group project for general planning and Discord for sprint planning and communication. 
 ##### You have used relevant research methods like expert interviews, literature study, etc. in your study about agile software development.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Agile management tools
@@ -42,7 +42,7 @@ Definition agile principles:
 ##### A project plan made by the whole group. Follow the template provided below. Get the plan approved by the PO and GPcoach.
 
 #### Project plan:
-*link to project plan*
+[Group project plan](https://stichtingfontys-my.sharepoint.com/:w:/r/personal/454147_student_fontys_nl/_layouts/15/Doc.aspx?sourcedoc=%7BBC19D391-4A7F-477C-B005-39D2361EA9AF%7D&file=Projectdocument.docx&action=default&mobileredirect=true)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Can you work with people from other cultures?
