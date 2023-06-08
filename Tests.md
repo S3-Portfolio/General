@@ -61,6 +61,11 @@ Testplan for Integration tests:
 |3| Check if the PutFish endpoint updates a fish in the database| Call the PutFish endpoint and look in the mocked data to see if the data changed| The PutFish endpoint updates the data of a fish correctly|
 |4| Check if the DeleteFish endpoint deletes a fish from the database| Call the DeleteFish endpoint and compare the mocked data to the original list| The DeleteFish endpoint removes a fish from the database correctly|
 
+As seen above, are the test objectives for the Unit and Integration tests almost identical.
+This is because my application has no real logic to test. 
+Therefor is it not really useful to carry out Unit tests. 
+Integration tests are still relevant though, because I the communication between front- and back-end goes via an API.
+
 * Results
 
 The manual test was performed on 6-6-2023.
