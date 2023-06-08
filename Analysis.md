@@ -11,6 +11,10 @@ The teachers' goals are to see me succeed (at least I hope) and to see an end pr
 Their constraints would be their role as theacher, because they have to grade my project instead of just being the stakeholder.
 
 ##### You have identified and analysed your stakeholders – their goals, constraints, stakes.
+In the group project the stakeholders would include: the teachers, future users, future animals, the Finnish development team and our development team.
+The teachers' goals are to see an end product. The future users' goals are to be able to use the application. The future animals' goals are to (hopefully) find a forever home. The goals for both development teams would be the same: developing as many user stories and making the application the best ik can be.
+The teacher' constraints would include their role as theacher, because they have to grade my project instead of just being the stakeholder. The constraints of both future users and future animals would be whatever they cannot do with the application (as in functionally). The development teams' constraints are time, because time is needed to complete the application.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Process analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/process-analysis-which-processes-are-supported-by-your-software?module_item_id=916362)
@@ -73,7 +77,14 @@ Requirement elicitation and specification are continuous processes in agile soft
 
 * How did you come up with them?
 
+I had already thought of my idea (what kind of website I wanted to create). So then it became a question of how. An important part of the how question is: What do I need? So thats exactly where I started.
+
 * How and where did you specify and validate them?
+
+I specified my requirements by ...
+
+I validated my requirements by asking feedback from my teachers. This feedback can be read back on FeedPulse canvas. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Ethics analysis
 [Ethics document](https://github.com/S3-Portfolio/General/blob/ff59881171e8ffb3f35be817bea1122dc8eff051/CulturalDifferencesEthics.md)
