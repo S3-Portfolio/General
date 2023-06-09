@@ -62,7 +62,7 @@ Testplan for Integration tests:
 As seen above, are the test objectives for the Unit and Integration tests almost identical.
 This is because my application has no real logic to test. 
 Therefor is it not really useful to carry out Unit tests. 
-Integration tests are still relevant though, because I the communication between front- and back-end goes via an API.
+Integration tests are still relevant though, because the communication between front- and back-end goes via an API.
 
 * Results
 
