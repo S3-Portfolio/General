@@ -52,9 +52,20 @@ I have also added the first two instances of a C4 model, although the model is n
 
 ![C4_1 drawio](https://github.com/S3-Portfolio/General/assets/93527848/d7b00d9a-9c96-47e3-9dde-3407f29b7a81)
 
+In this image you can see the first instance of the C4 model.
+This model doesn't use tecnical terms, as it is commonly shown to people without software knowledge.
+Because my application isn't very complex, emulates the model the same. 
+It simply shows how an user would interact with my system.
+
 ![C4_2 drawio](https://github.com/S3-Portfolio/General/assets/93527848/3709ec7b-f580-40c9-bbac-fd71aeb89eb8)
 
-(C4 model bekijken. Uitleggen wat ik wil laten zien.)
+In this image you can see the second instance of the C4 model.
+This model is commonly viewed by people with more software knowledge, so it goes more in depth than the first instance of the C4 model.
+It shows how an user, my application, my database and my API communicate and/or interact with each other.
+The arrows show the relation between.
+Because my application isn't very complex, it wouldn't really add anything if I made the other instances of the C4 model.
+I have therefor only made the first two instances. 
+The first two instances are also the most common to be made, unless an application is very complex.
 
 **7.	You analyze and describe simple business processes that are related to your project.**
 
