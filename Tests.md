@@ -86,3 +86,12 @@ Adding a magnifying glass icon in (or next to) the search bar could be used to p
 
 The next step in this process would be to implement the given feedback.
 This includes changing the searchbar and adding an magnifying glass icon to the side of the searchbar. 
+
+![UI_revised_colored drawio](https://github.com/S3-Portfolio/General/assets/93527848/9895d601-fcef-4a6a-803a-a55ceccf6e22)
+
+The UI design above shows what my application would look like if I had more time. I have implemented the feedback given through my usability test. 
+Seen by the headers above information, the smaller (more visable) searchbar and the magnifying glass icon.
+
+Even though I haven't had enough time to implement an interactive world map, I still included it in this UI design.
+I did this because I really would have wanted to add it and I feel my application would be incomplete without it. 
+This UI design is my vision for the future of my website, so that is also a reason.
