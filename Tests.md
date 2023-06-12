@@ -85,3 +85,4 @@ Adding a magnifying glass icon in (or next to) the search bar could be used to p
 * Next steps
 
 The next step in this process would be to implement the given feedback.
+This includes changing the searchbar and adding an magnifying glass icon to the side of the searchbar. 
