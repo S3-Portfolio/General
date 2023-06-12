@@ -50,6 +50,10 @@ It also provides more room for things like time estimates.
 ##### You have fully implemented an agile method in your project and demonstrated your expertise in it.
 We have shown our teacher our Trello board and informed him when we switched to YouTrack. We have already shown a burnchart.
 
+![image](https://github.com/S3-Portfolio/General/assets/93527848/4f75c422-08d8-4498-9688-094c6cdd84cf)
+
+This is the burnchart that we showed our teacher. It isn't 100% acurate though, because it doesn't show when items were set to review. It only shows when items were sent to done.
+
 (wat heb je laten zien? Leg uit)
 
 ##### You have selected an agile management tool of sufficient quality and have used it in your project to plan, report, and monitor your work.
