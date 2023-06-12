@@ -41,6 +41,8 @@ My application is a website for divers to get an overview of diving locations an
 I give the AI my general idea of my website and my user stories and asked it to write me a research paper about which security concers my application has. Keep in mind that I give it all my User Stories, including the ones I haven't finished / started. This means that the AI could give a different answer than I would need at the moment.
 
 #### My question
+I give the AI my general idea of my website and my user stories and asked it to write me a research paper about which security concerns my application has. Keep in mind that I give it all my User Stories, including the ones I haven't finished / started. This means that the AI could give a different answer than I would need at the moment.
+
 *"My application is a website for divers to get an overview of diving locations and fish. Has an interactive world map that shows diving locations that are clickable. When clicked show information about dive and fish at that location. Have a search function for both dives and fish. Dive listing shows information about that dive and which fish a diver would be able to see when taking that dive. Fish listing shows information about that fish and which diving locations a diver would be able to see that fish at.*
 
 *My user stories:*
