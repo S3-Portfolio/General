@@ -1,4 +1,9 @@
 ### Cultural differences
+First and foremost: What is culture?
+
+"Culture is a term that encompasses a wide range of social behaviors, institutions, norms, values, beliefs, arts, laws, customs, capabilities, and habits found in human societies."
+[Source](https://en.wikipedia.org/wiki/Culture)
+
 In regards to our group project there is a clear subject of cultural differences between the Dutch and Finnish students. 
 And even within the Finnish group there are multiple cultures. 
 This can have consequences for communication or decision making within the group. 
@@ -66,11 +71,27 @@ When looking into these stereotypes, it becomes apparent why there hasn't been a
 Though it's true that most (or let's be honest, all) of our communication has been through two of the international students from the Finnish side.
 When looking at the communication thus far, the basis of the stereotypes seems true. 
 
+But there are also other dimensions to cultural differances besides cummunication. Well-known dimensions of cultural differences include those identified by Hofstede's cultural dimensions theory, the Seven Dimensions of Culture model, and other dimensions such as power distance, uncertainty avoidance, and gender egalitarianism. 
+Power distance and gender eqalitarianism are not really relevant to our group project, because we were all at the same power level. And as the only female Dutch student, I haven't had the feeling I was being threated differently to the others. 
+Uncertainty avoidance is also less relevant, because we were making major decisions together and smaller decisions were made after getting feedback from the rest of the team. Everyone was also very open to answering questions, so even if there was anything uncertain, you chould easily ask someone else.
+
+[corporatefinanceinstitute.com](https://corporatefinanceinstitute.com/resources/management/hofstedes-cultural-dimensions-theory/) ,
+[mindtools.com](https://www.mindtools.com/a5ce21r/the-seven-dimensions-of-culture) ,
+[courses.lumenlearning.com](https://courses.lumenlearning.com/wm-principlesofmanagement/chapter/dimensions-of-cultural-difference-and-their-effect/)
+
 ### Ethics
+
+Ethics in software engineering refers to the principles and values that guide the behavior of software engineers when designing, developing, testing, and maintaining software. Ethical considerations in software engineering include fairness, honesty, nonmaleficence, and beneficence, and should be integrated into the software development lifecycle. The Software Engineering Code of Ethics provides a set of guidelines for software engineers to follow when making ethical decisions.
+
+[fellow.app](https://fellow.app/blog/engineering/engineering-everything-you-need-to-know-about-software-engineering-ethics/)
+
 When talking about ethics for our application, you can talk about two different subject regarding ethics; 
 ethics for programmers and ethics for consumers. 
 
-Ethics for programmers is talking about ethical programming.
+Ethics for programmers is talking about ethical programming and is important to ensure that software engineers work responsibly and effectively, create products that are safe and respectful of human dignity, prioritize public safety, and meet ethical standards.
+
+[link.springer.com](https://link.springer.com/article/10.1007/s11948-015-9665-x) ,
+[researchgate.net](https://www.researchgate.net/publication/227991826_Software_Engineering_Ethics)
 
 Ethics for consumers is talking about ethical problems or questions brought up by our product. 
 Our application is meant for people searching for animals or a new home for their animals. 
@@ -83,21 +104,14 @@ That is why we have listings with personal information about each animal individ
 [Source](https://en.wikipedia.org/wiki/Programming_ethics)
 [Source](https://www.acm.org/code-of-ethics)
 
+A software engineer has to think about the ethics of their work, therefore they have to engage in deliberations about ethics and familiarize themself with the code of ethics. 
+The most important thing is to make ethics a common topic and to be mindfull of the etics surrounding your work. 
+A software engineer has to communicate about ethical aspects regarding their work. 
+When they are familiar with the code of ethics, they can discuss this with other software engineers to get feedback.
+
 ----------------------
 [Source](https://fhict.instructure.com/courses/13025/pages/group-management-can-you-work-with-people-from-other-cultures?module_item_id=916360)
 #### Individual:
-* What is culture?
-
-"Culture is a term that encompasses a wide range of social behaviors, institutions, norms, values, beliefs, arts, laws, customs, capabilities, and habits found in human societies."
-[Source](https://en.wikipedia.org/wiki/Culture)
-
-* Which are well-known dimensions on cultural differences?
-
-Well-known dimensions of cultural differences include those identified by Hofstede's cultural dimensions theory, the Seven Dimensions of Culture model, and other dimensions such as power distance, uncertainty avoidance, and gender egalitarianism.
-
-[corporatefinanceinstitute.com](https://corporatefinanceinstitute.com/resources/management/hofstedes-cultural-dimensions-theory/) ,
-[mindtools.com](https://www.mindtools.com/a5ce21r/the-seven-dimensions-of-culture) ,
-[courses.lumenlearning.com](https://courses.lumenlearning.com/wm-principlesofmanagement/chapter/dimensions-of-cultural-difference-and-their-effect/)
 
 * Can you give examples for cultural differences that you have experienced in your study or life?
 
@@ -105,48 +119,4 @@ Well-known dimensions of cultural differences include those identified by Hofste
 
 * What is your culture?
 
-
-#### Group:
-You have studied a subset of the materials provided below.
-
-You have applied the theory in a practical situation (preferably in your group, but if this is not applicable then in your daily life).
-
-
-#### Project:
-* What did you do to improve the group communications with respect to cultural differences?
 -------------------
-[Source](https://fhict.instructure.com/courses/13025/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=916364)
-#### Individual:
-* What is ethics in software engineering?
-
-Ethics in software engineering refers to the principles and values that guide the behavior of software engineers when designing, developing, testing, and maintaining software. Ethical considerations in software engineering include fairness, honesty, nonmaleficence, and beneficence, and should be integrated into the software development lifecycle. The Software Engineering Code of Ethics provides a set of guidelines for software engineers to follow when making ethical decisions.
-
-[fellow.app](https://fellow.app/blog/engineering/engineering-everything-you-need-to-know-about-software-engineering-ethics/)
-
-* Why is ethics important in software engineering?
-
-Ethics in software engineering is important to ensure that software engineers work responsibly and effectively, create products that are safe and respectful of human dignity, prioritize public safety, and meet ethical standards.
-
-[link.springer.com](https://link.springer.com/article/10.1007/s11948-015-9665-x) ,
-[researchgate.net](https://www.researchgate.net/publication/227991826_Software_Engineering_Ethics)
-
-* What do you have to do as a software engineer to address ethical aspects in your work?
-
-A software engineer has to think about the ethics of their work, therefor they have to engage in deliberations about ethics and familiarize themself with the code of ethics. 
-The most important thing is to make ethics a common topic and to be mindfull of the etics surrounding your work. 
-
-* How do you know that your ethical considerations match with those of other software engineers?
-
-As stated before, a software engineer has to communicate about ethical aspects regarding their work. 
-When they are familiar with the code of ethics, they can discuss this with other software engineers to get feedback.
-
-#### Group:
-You have made an analysis of the ethical aspects of your application.
-
-#### Project:
-* Which ethical aspects play a role in your project?
-
-* Do you foresee ethical conflicts caused by your software? What kind of?
-
-* Can you do something to avoid or minimize these conflicts?
---------------------------
