@@ -28,7 +28,11 @@ There are four kinds of this database: document databases, key-value stores, col
 - When do you use an SQL or noSQL database?
 
 Wat is er nodig voor mijn applicatie? / deelvragen meer betrekking laten hebben tot applicatie.
-
+### Introduction
 #### methods
 #### execution
-#### results
+#### Premise
+### Types of databases
+#### SQL vs noSQL
+#### Most popular databases 
+### results
