@@ -24,6 +24,9 @@ Of these methods I will mainly use Secondary Data Analysis / Archival Study, but
 #### execution
 (How did I execute this method and research?)
 
+I searched on internet and our school courses for information. 
+I also discussed this topic with a teacher and gathered information through that. 
+
 #### Premise
 (Give a short rundown of what my application entails)
 
@@ -34,7 +37,7 @@ My objective will be to gather information about databases and have a basic unde
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Types of databases
-From the source we can gather that there are a lot of different types of databases, but the most used are: Hierarchical, Relational, Non-Relational and Object oriented databases.
+From the source we can gather that there are a lot of different types of databases, but the most used are: Hierarchical, Relational, Non-Relational and Object oriented databases.[^1]
 
 #### SQL vs noSQL
 NoSQL is an umbrella term for any alternative system to traditional SQL databases. Sometimes, when we say NoSQL management systems, we mean any database that doesn't use a relational model.
@@ -59,7 +62,7 @@ The object oriented databases are unique because associations between objects ca
 ### References
 (Link all used references here. Use footnotes to reference sources)
 
-[Types of databases](https://www.mongodb.com/databases/types)
+[^1]: [Types of databases](https://www.mongodb.com/databases/types)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Bonus
