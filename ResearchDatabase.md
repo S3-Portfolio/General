@@ -72,11 +72,8 @@ My full question:
 
 *"My application is a website for divers to get an overview of diving locations and fish. Has an interactive world map that shows diving locations that are clickable. When clicked show information about dive and fish at that location. Have a search function for both dives and fish. Dive listing shows information about that dive and which fish a diver would be able to see when taking that dive. Fish listing shows information about that fish and which diving locations a diver would be able to see that fish at.*
 
-*Can you write a research paper about which type of database suits my application best?"*
+*My user stories:*
 
-My subsequent followup question:
-
-*"My user stories:*
 * *As a diver I want to see on a world map where diving locations are.*
 * *As a diver I want to be able to click on a diving location to see wich fish are in that location.*
 * *As a diver I want to know which diving locations I can see a specific fish at, because a diver wants to know where they could be able to see a certain fish.*
@@ -87,40 +84,31 @@ My subsequent followup question:
 * *As a diver I want to see which fish I can see per dive.*
 * *As a diver I want to be able to search for specific dives.*
 
-*Can you use these to rewrite the research paper?"*
+*Can you write me a research paper about which type of database suits my application best?"*
 
 #### AI generated answer
-The answer was the same for both questions in the sense that the AI wrote about the same types of databases for both.
-
 The AI answer:
 
-*"After reviewing your user stories, it is recommended to use a combination of databases to achieve the desired functionality of your application. The databases that can be useful for your application include:*
+*"To determine which type of database best suits your application, you first need to understand your application's requirements. Based on your user stories, it seems that your application needs to handle location data, search functionality, and user input. Here are some potential database options to consider:*
 
-*Geospatial database: A geospatial database is designed to handle geographical data and would be useful for your world map that shows diving locations. It allows for the storage and retrieval of location-based data, making it useful for your interactive world map. Examples of geospatial databases include PostGIS, MongoDB, and Elasticsearch.
-Relational database management system (RDBMS): An RDBMS is based on a table structure and allows for complex queries and relationships between tables. It would be useful for handling data that has many-to-many relationships, such as your fish and dive locations. Examples of RDBMS include MySQL, PostgreSQL, and Oracle.
-Full-text search database: A full-text search database is optimized for searching large volumes of text-based data and would be useful for your search functionality. It allows for fast and efficient searches across multiple fields, including text, keywords, and metadata. Examples of full-text search databases include Elasticsearch, Solr, and Amazon CloudSearch.
-Based on your user stories, the following databases can be used:*
+*Relational databases: These are the most common type of database and are good for handling structured data. They use tables with predefined columns and rows to store data. Relational databases are good for handling data that has a clear structure, such as user information or dive locations. They are also good for handling search functionality, as they can use SQL queries to quickly search through large amounts of data. Popular relational databases include MySQL and PostgreSQL.*
 
-*For the world map that shows diving locations, a geospatial database can be used to handle the location data for your diving spots.
-For the search functionality, a full-text search database can be used to handle the search functionality.
-For the relationship between dives and fish, an RDBMS can be used to handle the relationships between dives and fish.
-To implement these databases, you will need to consider the following:*
+*NoSQL databases: These are non-relational databases that are good for handling unstructured data. NoSQL databases can be more flexible than relational databases, as they do not require predefined schemas. They are good for handling data that may have varying structures or that needs to be easily scalable. NoSQL databases can also be faster at handling large amounts of data. Popular NoSQL databases include MongoDB and Cassandra.* 
 
-*Data modeling: This involves designing the structure of your database, including tables, fields, and relationships. You will need to determine how to store your dive and fish data, as well as how to link them together.
-Data indexing: This involves creating indexes on your data to improve search performance. You will need to determine which fields to index, as well as which type of indexing to use (e.g., full-text, geospatial).
-API integration: This involves integrating your database with your web application using an API. You will need to determine which API to use, as well as how to securely connect to your database.
-To address your user stories, the following can be implemented:*
+*Geographic databases: These are specialized databases that are designed to handle geographic data, such as location coordinates, maps, and spatial relationships. They are good for handling location data, such as dive sites and fish habitats. Geographic databases can also handle complex queries that involve spatial relationships, such as finding all dive sites within a certain distance of a given location. Popular geographic databases include PostGIS and MongoDB with GeoJSON.*
 
-*As a diver, you would be able to see diving locations on the world map. When you click on a diving location, you would be able to see which fish are at that location.
-As a diver, you would be able to search for specific fish and see which diving locations you can see that fish at.
-As a diver/user, you would be able to add information to the website, which would broaden the information on the website. This information would be stored in a database.
-As an admin, you would be able to see which users added which information. This would allow you to flag users spreading misinformation.
-As an admin, you would be able to ban users from editing information. This would prevent users from adding information that is nonsensical.
-As a diver, you would be able to search for specific fish and see which dives you can see that fish at.
-As a diver, you would be able to search for specific dives.
-Overall, the combination of these databases will enable you to achieve the desired functionality of your application."*
+*Depending on the specific requirements of your application, one or more of these database options may be appropriate. It's also possible that a combination of different types of databases may be needed to handle different parts of your application. For example, you may use a relational database to handle user information and search functionality, while using a geographic database to handle location data.*
 
+*When choosing a database, it's important to consider factors such as scalability, performance, and ease of use. You should also consider the specific features and capabilities of the database, such as its ability to handle complex queries or its support for geographic data.*
 
+*Here are some resources to help you learn more about different types of databases and their use cases:*
+
+[Relational Databases vs. NoSQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql) /
+[What is a Geographic Database?](https://www.gislounge.com/what-is-a-geographic-database/) /
+[PostGIS Documentation](https://postgis.net/documentation/) /
+[MongoDB: How to Build a Geo-Enabled App](https://www.mongodb.com/how-to/geo-enabled-app)
+
+*Ultimately, the choice of database will depend on the specific needs of your application and the trade-offs between different options. It may be helpful to prototype different parts of your application with different databases to see which works best in practice."*
 
 #### Comparison
 #### Final conclusion
