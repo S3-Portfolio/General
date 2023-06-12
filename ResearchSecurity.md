@@ -67,9 +67,9 @@ Acceptable use: Your site should have an acceptable use policy that outlines wha
 Security: Your site should be secure to prevent unauthorized access to user data or other sensitive information. This may include using encryption, secure authentication methods, and other security measures to protect your site from cyber attacks. You may also want to consider using a trusted third-party security provider to help you identify and mitigate potential security risks.
 Sources:*
 
-[freeprivacypolicy.com](https://www.freeprivacypolicy.com/blog/legal-issues-user-generated-content/)
-[termsfeed.com](https://www.termsfeed.com/blog/legal-issues-user-generated-content/)
-[getterms.io](https://getterms.io/blog/user-generated-content-privacy-and-legal-issues-for-website-owners)
+[freeprivacypolicy.com](https://www.freeprivacypolicy.com/blog/legal-issues-user-generated-content/) /
+[termsfeed.com](https://www.termsfeed.com/blog/legal-issues-user-generated-content/) /
+[getterms.io](https://getterms.io/blog/user-generated-content-privacy-and-legal-issues-for-website-owners) /
 [cmswire.com](https://www.cmswire.com/digital-marketing/how-to-mitigate-the-risks-of-user-generated-content/)"
 
 #### Comparison
