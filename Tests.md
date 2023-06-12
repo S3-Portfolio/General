@@ -81,3 +81,7 @@ For example: I could put a header above certain information to clarify what type
 The search bar is also a problem, because it is far to long.
 This makes it so the bar doesn't resemble a search bar and thus gets overlooked. 
 Adding a magnifying glass icon in (or next to) the search bar could be used to partially solve this problem.
+
+* Next steps
+
+The next step in this process would be to implement the given feedback.
