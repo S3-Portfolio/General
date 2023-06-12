@@ -31,6 +31,8 @@ Kanban: Kanban is based on visualizing and managing work. It uses boards to trac
 
 Lean: Lean is similar to Kanban but it focusus on eliminating waste and obstructions to workflow. It is optimized for continuous learning and improvement. 
 
+(Meer uitleg geven, uitgebreider)
+
 #### Do you know how software engineers work in practice with agile methods?
 Software engineers work with agile methods in a collaborative, iterative, and adaptable way to deliver value to customers quickly and efficiently. 
 Agile methods provide a structure for teams to work together and deliver high-quality software that meets customer needs.
@@ -48,8 +50,12 @@ It also provides more room for things like time estimates.
 ##### You have fully implemented an agile method in your project and demonstrated your expertise in it.
 We have shown our teacher our Trello board and informed him when we switched to YouTrack. We have already shown a burnchart.
 
+(wat heb je laten zien? Leg uit)
+
 ##### You have selected an agile management tool of sufficient quality and have used it in your project to plan, report, and monitor your work.
 We use Trello in our group project for general planning and Discord for sprint planning and communication. 
+
+(Foto's toevoegen, bewijsmateriaal leveren)
 
 ##### You have used relevant research methods like expert interviews, literature study, etc. in your study about agile software development.
 When we encountered some problems with our planning and Trello wasn't working for us anymore, we researched some other agile management tool to come up with a solution. This eventually led to YouTrack. We have also explained to our teacher our thought process and reasoning for changing from Trello to YouTrack.
