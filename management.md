@@ -43,7 +43,7 @@ We were using a Trello as our kanban board.
 Kanban worked quite well for our team. 
 Git allows users to manage a primitive kanban board. Trello does not allow for full Kanban and or Scrum. 
 Things like a burndown chart and user stories are missing in the tool. 
-We therefor opted to change our agile management tool to YouTrack. 
+We therefore opted to change our agile management tool to YouTrack. 
 YouTrack has a lot of features and lets us make burndown charts and user stories. 
 It also provides more room for things like time estimates.
 
@@ -53,7 +53,8 @@ We have shown our teacher our Trello board and informed him when we switched to 
 (wat heb je laten zien? Leg uit)
 
 ##### You have selected an agile management tool of sufficient quality and have used it in your project to plan, report, and monitor your work.
-We use Trello in our group project for general planning and Discord for sprint planning and communication. 
+We first used Trello in our group project for general planning and Discord for sprint planning and communication. 
+Then we used YouTrack as our Agile management tool for general planning. For sprint planning and communication we use Discord and Whatsapp.
 
 (Foto's toevoegen, bewijsmateriaal leveren)
 
