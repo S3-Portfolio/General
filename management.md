@@ -60,6 +60,9 @@ This is the burnchart that we showed our teacher. It isn't 100% acurate though, 
 We first used Trello in our group project for general planning and Discord for sprint planning and communication. 
 Then we used YouTrack as our Agile management tool for general planning. For sprint planning and communication we use Discord and Whatsapp.
 
+![image](https://github.com/S3-Portfolio/General/assets/93527848/c5a69725-ebbc-4b00-b6db-d08f1a19d380)
+YouTrack User Story.
+
 (Foto's toevoegen, bewijsmateriaal leveren)
 
 ##### You have used relevant research methods like expert interviews, literature study, etc. in your study about agile software development.
