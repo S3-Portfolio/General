@@ -63,6 +63,9 @@ Then we used YouTrack as our Agile management tool for general planning. For spr
 ![image](https://github.com/S3-Portfolio/General/assets/93527848/c5a69725-ebbc-4b00-b6db-d08f1a19d380)
 YouTrack User Story.
 
+![image](https://github.com/S3-Portfolio/General/assets/93527848/3f787c7b-cadb-4b48-9cc4-c550f937283f)
+Exel board.
+
 (Foto's toevoegen, bewijsmateriaal leveren)
 
 ##### You have used relevant research methods like expert interviews, literature study, etc. in your study about agile software development.
