@@ -108,15 +108,3 @@ A software engineer has to think about the ethics of their work, therefore they 
 The most important thing is to make ethics a common topic and to be mindfull of the etics surrounding your work. 
 A software engineer has to communicate about ethical aspects regarding their work. 
 When they are familiar with the code of ethics, they can discuss this with other software engineers to get feedback.
-
-----------------------
-[Source](https://fhict.instructure.com/courses/13025/pages/group-management-can-you-work-with-people-from-other-cultures?module_item_id=916360)
-#### Individual:
-
-* Can you give examples for cultural differences that you have experienced in your study or life?
-
-* How do you explain these differences?
-
-* What is your culture?
-
--------------------
