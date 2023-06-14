@@ -38,11 +38,14 @@ My objective will be to gather information about databases and have a basic unde
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Types of databases
 From the source we can gather that there are a lot of different types of databases, but the most used are: Hierarchical, Relational, Non-Relational and Object oriented databases.[^1]
+But these all fall under two terms: SQL or noSQL.
 
 #### SQL vs noSQL
-NoSQL is an umbrella term for any alternative system to traditional SQL databases. Sometimes, when we say NoSQL management systems, we mean any database that doesn't use a relational model.
+NoSQL is an umbrella term for any alternative system to traditional SQL databases. Sometimes, when we say noSQL management systems, we mean any database that doesn't use a relational model.
 There are four kinds of this database: document databases, key-value stores, column-oriented databases, and graph databases.
 
+SQL databases are built upon relations between tables. You therefore use SQL databases when you need two tables to relate to eachother. For example; when you are writing user stories and you notice that two (or more) entities need to have a relation to each other. 
+NoSQL databases are used when no relations are needed. This can be the case if you need to store simple data (like accounting data or an Exel sheet) or when 
 (When do you use an SQL or noSQL database?)
 
 #### Most popular databases 
