@@ -36,6 +36,33 @@ So the development of software applications help improve BPM, thus you could say
 ##### Your model visualizes the process, including information aspects (data used / produced in the activities), and roles (who does which activity).
 ##### You have analysed the process and drew conclusions on possible improvements in it (by means of introduction of your application).
 ##### You have modelled the new process including data and role aspects in it and explained which activities are automated or supported by your application how this changes the work of the roles involved in the process.
+
+### Business process analysis individual project
+#### Context
+(Wat houdt het zichtbare proces in? Waarom moest het aangepast worden? Wat is het verschil tussen het oude en nieuwe proces?)
+
+I write this business process analysis about a user story that isn't implemented in my application. This means that the situation setup will be fictional and does not relate to my current application.  
+
+"As a admin I want to be able to see which users added which information, because than the admin can flag users spreading misinformation." 
+This is the user story for which I will visualise the business process. 
+The Admin needs to be able to look at the information that is stored in the database. That information is currently only available by opening the database, opening the data table and scrolling down the list of changes made. This process is time consuming and it would be much better to have an dedicated page for this (only accessible for the Admin(s)). 
+The new process will enable Admins to find problematic comments easier, which means that banning users who repeatedly post misinformation will be easier also. 
+
+#### Process past
+(Hoe zag het proces er in het verleden uit?)
+
+You can see the old process above. When an Admin wants to know which user posted/edited which information, they have to open the database. They then have to open the table where all changes to the website are stored. Then they have to scroll through all rows, searching for the particular change that they are concerned about. Then they have to change the boolean "Flagged" to true manually. This is very inefficient and time consuming. 
+
+#### Analysis
+(Wat kan er in het oude proces verbeterd worden?)
+
+This process is (like previously stated) inefficient and time consuming. The Admin also needs to rewrite queries if they want to flag multiple users (if they wrote a query to search the data faster). This means that this process can be approved immensly to make this task easier.
+
+#### Process now
+(Hoe ziet het proces er nu uit?)
+
+You can see the new process above. When an Admin wants to know which user posted/edited which information, they open the "Changes" page (if they are already logged in as Admin). On the page they will see a table with all changes made to the website and which user posted/edited what. Here they can filter by user (if they want to check if this user should be banned) or by term (if they want to check that there is no problematic language used). Then they check the checkbox next to the user to flag them. This also means that the Admin can flag multiple users at a time.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Project:
 * Does your software automate a task, facilitate a task, or make a new task possible to perform?
