@@ -31,7 +31,11 @@ I also discussed this topic with a teacher and gathered information through that
 (Give a short rundown of what my application entails)
 
 Because my application needs to show information, it also needs to store that information. Hereby is it essential that I store that information properly.
-I have worked with SQL databases before, so I was inclined to set up a SQL database for this project. It came to my attention however, that a SQL database might not be the best (or most ideal) database type to use.The information I needed to store was very table like, so I didn't really know if a relational database was needed or necessary.
+I have worked with SQL databases before, so I was inclined to set up a SQL database for this project. It came to my attention however, that a SQL database might not be the best (or most ideal) database type to use. The information I needed to store was very table like, so I didn't really know if a relational database was needed or necessary.
+
+So at first I was certain that I needed to use a SQL database, because this was most logical for me. I also worked with SQL databases before and had no real prior experience with noSQL databases or what those entail. 
+But after discussing my findings with my teacher, he recommended I researched further and look more closely at noSQL databases, because he wasn't sure that I needed to use a SQL database. The information I needed to store was very table like, so I didn't really know if a relational database was needed or necessary.
+So that is the reason for this research paper.
 
 My objective will be to gather information about databases and have a basic understanding about different types of databases. I also want to know which database type suits which purpose and by extention know which one would suit my application.
 
@@ -50,6 +54,8 @@ SQL databases are built upon relations between tables. You therefore use SQL dat
 NoSQL databases are used when no relations are needed. This can be the case if you need to store simple data (like accounting data or an Exel sheet).
 
 #### Most popular databases 
+(Which type of databases are most popular/used and why?)
+
 The hierarchical database is like a family tree and offers high performance, as there’s easy access and a quick querying time.
 The relational database stores data in discrete tables.
 The non-relational database matured due to increasingly complex modern web applications.
@@ -59,10 +65,14 @@ The object oriented databases are unique because associations between objects ca
 ### results
 (What are the results of this research?)
 
-### Conclusion
-(What is the  conclusion of this research?) 
+To figure out which type of database suits your application best, you first have to decide if you want to have a SQL or noSQL database. To make this decicion, you have to take into account if your application needs/uses relations between entities. If so, then a SQL database would be more suitable. If relations between enities are not really relevant for your application, than a noSQL database might be better. The most important aspect to consider is what your application needs based on (for example) you user stories or requirements. 
 
-Because my application needs to have a relation between dives and fish(es), that means I have to 
+### Conclusion
+(What is the conclusion of this research?) 
+
+I discussed with my teacher over the way my application needed to store information. At first there were no real relations apparent. This was also partly because I couldn't find a API I could use to get the information I needed. I therefore had to manually search for and type all information about dives and fish(es). The information that I needed to put in the database was very table like and didn't have a ralation to eachother. Dives had their own information and fish(es) had their own information. But after further inspection of my user stories and another "interview" with my teacher, it made more sense to establish a relation between dive and fish.
+
+Because my application needs to have a relation between dives and fish(es), that means I can best use a SQL database. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### References
