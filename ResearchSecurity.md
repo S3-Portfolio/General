@@ -1,13 +1,39 @@
 # Research
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Introduction
+(Give a short rundown of why I ask the question)
+
+I am writing this research paper because I want to know which security concerns my application has.
 My application is a website for divers to get an overview of diving locations and fish. Have an interactive world map that shows diving locations that are clickable. When clicked show information about dive and fish at that location. Have a search function for both dives and fish. Dive listing shows information about that dive and which fish a diver would be able to see when taking that dive. Fish listing shows information about that fish and which diving locations a diver would be able to see that fish at.
 
 #### methods
 (What methods do I use to research this topic?)
 
+There are a lot of different methods for researching. 
+The main ones are: 
+* Observation / Participant Observation
+* Surveys
+* Interviews
+* Focus Groups
+* Experiments
+* Secondary Data Analysis / Archival Study
+* Mixed Methods (combination of some of the above)
+
+Of these methods I will mainly use Secondary Data Analysis / Archival Study, but I would also like to gather information through other people.
+
 #### execution
 (How did I execute this method and research?)
+
+I searched on internet and our school courses for information. 
+I also discussed this topic with a teacher and fellow students to gathered information through that. 
+
+#### Premise
+(Give a short rundown of what my application entails)
+
+Because my application ...
+So that is the reason for this research paper.
+
+My objective will be to gather information about security and have a basic understanding about different security issues. I also want to know which security concerns would come up from my application.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Security concerns application
