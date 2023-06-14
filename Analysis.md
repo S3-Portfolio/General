@@ -31,6 +31,8 @@ So the development of software applications help improve BPM, thus you could say
 [Source](https://itchronicles.com/business-process-management/business-process-management-in-software-companies/)
 
 ##### You have analysed and modelled an existing business process from your project prior to the introduction of the software that you are creating. 
+![BP_Swipper drawio](https://github.com/S3-Portfolio/General/assets/93527848/3c97ff07-f661-4ea6-8e8e-5fc526212896)
+
 ##### Your model visualizes the process, including information aspects (data used / produced in the activities), and roles (who does which activity).
 ##### You have analysed the process and drew conclusions on possible improvements in it (by means of introduction of your application).
 ##### You have modelled the new process including data and role aspects in it and explained which activities are automated or supported by your application how this changes the work of the roles involved in the process.
