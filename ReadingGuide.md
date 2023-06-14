@@ -69,11 +69,10 @@ The first two instances are also the most common to be made, unless an applicati
 
 **7.	You analyze and describe simple business processes that are related to your project.**
 
-I have been working on both my analysis and management documents.
-Both of these documents use a format that I created myself based on the courses in Canvas.
+I have been working on my analysis document.
+This document uses a format that I created myself based on the courses in Canvas.
 
-[Analysis document](https://github.com/S3-Portfolio/General/blob/14d07cd89692fb4bba18dfe995c76fb5ce441099/Analysis.md) /
-[Management document](https://github.com/S3-Portfolio/General/blob/14d07cd89692fb4bba18dfe995c76fb5ce441099/management.md)
+[Analysis document](https://github.com/S3-Portfolio/General/blob/14d07cd89692fb4bba18dfe995c76fb5ce441099/Analysis.md)
 
 **8.	You act in a professional manner during software development and learning.**
 
