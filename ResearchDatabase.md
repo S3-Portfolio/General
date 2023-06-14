@@ -41,12 +41,13 @@ From the source we can gather that there are a lot of different types of databas
 But these all fall under two terms: SQL or noSQL.
 
 #### SQL vs noSQL
+(When do you use an SQL or noSQL database?)
+
 NoSQL is an umbrella term for any alternative system to traditional SQL databases. Sometimes, when we say noSQL management systems, we mean any database that doesn't use a relational model.
 There are four kinds of this database: document databases, key-value stores, column-oriented databases, and graph databases.
 
 SQL databases are built upon relations between tables. You therefore use SQL databases when you need two tables to relate to eachother. For example; when you are writing user stories and you notice that two (or more) entities need to have a relation to each other. 
 NoSQL databases are used when no relations are needed. This can be the case if you need to store simple data (like accounting data or an Exel sheet).
-(When do you use an SQL or noSQL database?)
 
 #### Most popular databases 
 The hierarchical database is like a family tree and offers high performance, as there’s easy access and a quick querying time.
