@@ -48,7 +48,7 @@ This is the user story for which I will visualise the business process.
 The Admin needs to be able to look at the information that is stored in the database. That information is currently only available by opening the database, opening the data table and scrolling down the list of changes made. This process is time consuming and it would be much better to have an dedicated page for this (only accessible for the Admin(s)). 
 The new process will enable Admins to find problematic comments easier, which means that banning users who repeatedly post misinformation will be easier also. 
 
-#### Process past
+#### Process then
 (Hoe zag het proces er in het verleden uit?)
 
 You can see the old process above. When an Admin wants to know which user posted/edited which information, they have to open the database. They then have to open the table where all changes to the website are stored. Then they have to scroll through all rows, searching for the particular change that they are concerned about. Then they have to change the boolean "Flagged" to true manually. This is very inefficient and time consuming. 
