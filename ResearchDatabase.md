@@ -75,12 +75,6 @@ I discussed with my teacher over the way my application needed to store informat
 Because my application needs to have a relation between dives and fish(es), that means I can best use a SQL database. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### References
-(Link all used references here. Use footnotes to reference sources)
-
-[^1]: [Types of databases](https://www.mongodb.com/databases/types)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Bonus
 ### Comparing AI generated answer to my research
 #### My question
@@ -141,3 +135,9 @@ The database I chose for my application is a good choice, although there are oth
 The conclusion for this bonus section would be that AI can give good recommendations, but the results may not be what you're looking for. AI doesn't take into account your skill level and understanding, so it can be that the recommendations given are to advanced. AI also doesn't take into account the requirements from your study cource, which means that (when you do follow the given recommendations) you are not focussing on the right things for your course. 
 
 I would thus only use AI to help with information gathering and make my own conclusions based on the given information. I would also base the decision making on my own conclusions and not blindly follow the AI recommendations. It is therefore also important to discuss everything with your teachers, predominantly the decision making part.  
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### References
+(Link all used references here. Use footnotes to reference sources)
+
+[^1]: [Types of databases](https://www.mongodb.com/databases/types)
