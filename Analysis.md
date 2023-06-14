@@ -30,14 +30,6 @@ So the development of software applications help improve BPM, thus you could say
 
 [Source](https://itchronicles.com/business-process-management/business-process-management-in-software-companies/)
 
-##### You have analysed and modelled an existing business process from your project prior to the introduction of the software that you are creating. 
-![BP_Swipper drawio](https://github.com/S3-Portfolio/General/assets/93527848/3c97ff07-f661-4ea6-8e8e-5fc526212896)
-
-##### Your model visualizes the process, including information aspects (data used / produced in the activities), and roles (who does which activity).
-##### You have analysed the process and drew conclusions on possible improvements in it (by means of introduction of your application).
-##### You have modelled the new process including data and role aspects in it and explained which activities are automated or supported by your application how this changes the work of the roles involved in the process.
-
-### Business process analysis individual project
 #### Context
 (Wat houdt het zichtbare proces in? Waarom moest het aangepast worden? Wat is het verschil tussen het oude en nieuwe proces?)
 
@@ -50,6 +42,7 @@ The new process will enable Admins to find problematic comments easier, which me
 
 #### Process then
 (Hoe zag het proces er in het verleden uit?)
+![BP_DiveSpot drawio](https://github.com/S3-Portfolio/General/assets/93527848/e460e2e3-6515-47e1-bed3-69f088452dd8)
 
 You can see the old process above. When an Admin wants to know which user posted/edited which information, they have to open the database. They then have to open the table where all changes to the website are stored. Then they have to scroll through all rows, searching for the particular change that they are concerned about. Then they have to change the boolean "Flagged" to true manually. This is very inefficient and time consuming. 
 
@@ -60,20 +53,10 @@ This process is (like previously stated) inefficient and time consuming. The Adm
 
 #### Process now
 (Hoe ziet het proces er nu uit?)
+![BP_DiveSpot_new drawio](https://github.com/S3-Portfolio/General/assets/93527848/efe10c72-2f45-4e05-aa25-1d6ccb7025ae)
 
 You can see the new process above. When an Admin wants to know which user posted/edited which information, they open the "Changes" page (if they are already logged in as Admin). On the page they will see a table with all changes made to the website and which user posted/edited what. Here they can filter by user (if they want to check if this user should be banned) or by term (if they want to check that there is no problematic language used). Then they check the checkbox next to the user to flag them. This also means that the Admin can flag multiple users at a time.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Project:
-* Does your software automate a task, facilitate a task, or make a new task possible to perform?
-
-My project facilitates a task, because my website is a source of information and it makes searching for fishes or dives easier.
-
-* Which is the process that your software supports / automate? Can you visualize it in a diagram?
-
-* Which roles are involves in this process? The work of which people (their roles) will this software influence?
-
-* Which steps of the process does your software support / automate? Can you visualize the new process in a diagram?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Requirements analysis
 [Source](https://fhict.instructure.com/courses/13025/pages/requirements-analysis-what-do-you-have-to-make?module_item_id=916363)
