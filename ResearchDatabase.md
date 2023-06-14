@@ -130,4 +130,14 @@ The AI answer:
 *Ultimately, the choice of database will depend on the specific needs of your application and the trade-offs between different options. It may be helpful to prototype different parts of your application with different databases to see which works best in practice."*
 
 #### Comparison
+From the AI generated answer I conclude that a combination of databases would be best. For user information, search funtionality and storing dive and fish information I would use a relational database (aka a SQL database) and for the dive location data and fish habitat data I would use a geographic database. 
+The storing of information of the dives and fish(es) could also be done with a noSQL database, because there wouldn't be a reason to have a relation between them in the database anymore. This is because I can get the "Which fish(es) can be seen for which dive?" information through the geographic database. But since I would need to set up a SQL database either way (because of the user information and search functionality) I would also store dive and fish information in the SQL database. 
+
+The results gathered through AI and my own research aren't that different, because I am using a relational database. That said, I do not have a login system or interactive map implemented, so I would not need to set up those databases. 
+
 #### Final conclusion
+The database I chose for my application is a good choice, although there are other options that would also work. If I had implemented an interactive map and thus set up a geographic database, I would not need a SQL database for the relation established between dive and fish.
+
+The conclusion for this bonus section would be that AI can give good recommendations, but the results may not be what you're looking for. AI doesn't take into account your skill level and understanding, so it can be that the recommendations given are to advanced. AI also doesn't take into account the requirements from your study cource, which means that (when you do follow the given recommendations) you are not focussing on the right things for your course. 
+
+I would thus only use AI to help with information gathering and make my own conclusions based on the given information. I would also base the decision making on my own conclusions and not blindly follow the AI recommendations. It is therefore also important to discuss everything with your teachers, predominantly the decision making part.  
