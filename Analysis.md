@@ -78,25 +78,6 @@ Requirement elicitation and specification are continuous processes in agile soft
 [techtarget.com](https://www.techtarget.com/searchsoftwarequality/tip/7-techniques-for-better-Agile-requirements-gathering) ,
 [t2informatik.de](https://t2informatik.de/en/blog/requirements-specifications-in-an-agile-environment/)
 
-##### You have contributed to the requirements collection and elicitation.
-
-##### You have contributed to the translation of the requirements to User stories.
-
-##### You have contributed to the translation of the requirements to the project architecture and designs.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Project:
-* What are the non-functional and functional requirements in your project?
-
-* How did you come up with them?
-
-I had already thought of my idea (what kind of website I wanted to create). So then it became a question of how. An important part of the how question is: What do I need? So thats exactly where I started.
-
-* How and where did you specify and validate them?
-
-I specified my requirements by ...
-
-I validated my requirements by asking feedback from my teachers. This feedback can be read back on FeedPulse canvas. 
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Ethics analysis
 [Ethics document](https://github.com/S3-Portfolio/General/blob/ff59881171e8ffb3f35be817bea1122dc8eff051/CulturalDifferencesEthics.md)
