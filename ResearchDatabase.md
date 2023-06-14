@@ -45,7 +45,7 @@ NoSQL is an umbrella term for any alternative system to traditional SQL database
 There are four kinds of this database: document databases, key-value stores, column-oriented databases, and graph databases.
 
 SQL databases are built upon relations between tables. You therefore use SQL databases when you need two tables to relate to eachother. For example; when you are writing user stories and you notice that two (or more) entities need to have a relation to each other. 
-NoSQL databases are used when no relations are needed. This can be the case if you need to store simple data (like accounting data or an Exel sheet) or when 
+NoSQL databases are used when no relations are needed. This can be the case if you need to store simple data (like accounting data or an Exel sheet).
 (When do you use an SQL or noSQL database?)
 
 #### Most popular databases 
@@ -60,6 +60,8 @@ The object oriented databases are unique because associations between objects ca
 
 ### Conclusion
 (What is the  conclusion of this research?) 
+
+Because my application needs to have a relation between dives and fish(es), that means I have to 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### References
