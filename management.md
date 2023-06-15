@@ -77,7 +77,7 @@ When we encountered some problems with our planning and Trello wasn't working fo
 ### Agile management tools
 [Source](https://fhict.instructure.com/courses/13025/pages/project-management-agile-management-tools?module_item_id=916358)
 #### Management tool:
-Our agile management tool is currently YouTrack. It can make clear burndown charts and it is easy to give a time estimate to tasks and user stories. 
+Our "agile" management tool is currently Exel. We first used YouTrack because it can make clear burndown charts and it is easy to give a time estimate to tasks and user stories.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### How to plan agile projects?
