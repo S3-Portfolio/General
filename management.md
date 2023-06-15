@@ -66,6 +66,8 @@ YouTrack User Story.
 ![image](https://github.com/S3-Portfolio/General/assets/93527848/3f787c7b-cadb-4b48-9cc4-c550f937283f)
 Exel board.
 
+After completing a sprint using YouTrack as our Agile management tool, we encountered some issues with it. This was mainly because we were not familiar with YouTrack. We therefore opted for convenience and switched to using an Exel sheet rather than taking the time to firuge out YouTrack. We did this because we were running out of time and didn't want to "waste" any more time.  
+
 (Foto's toevoegen, bewijsmateriaal leveren)
 
 ##### You have used relevant research methods like expert interviews, literature study, etc. in your study about agile software development.
