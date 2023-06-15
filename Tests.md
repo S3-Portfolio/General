@@ -86,6 +86,8 @@ Adding a magnifying glass icon in (or next to) the search bar could be used to p
 
 Above image shows the results from a static code analysis executed by SonarCloud.
 
+(Uitleggen dat ik gekeken heb naar de bugs/errors en waarin die voorkwamen)
+
 * Next steps
 
 The next step in this process would be to implement the given feedback.
