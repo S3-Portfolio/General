@@ -6,7 +6,7 @@
 I am writing this research paper because I want to know which security concerns my application has.
 My application is a website for divers to get an overview of diving locations and fish. Have an interactive world map that shows diving locations that are clickable. When clicked show information about dive and fish at that location. Have a search function for both dives and fish. Dive listing shows information about that dive and which fish a diver would be able to see when taking that dive. Fish listing shows information about that fish and which diving locations a diver would be able to see that fish at.
 
-#### methods
+#### Methods
 (What methods do I use to research this topic?)
 
 There are a lot of different methods for researching. 
@@ -21,7 +21,7 @@ The main ones are:
 
 Of these methods I will mainly use Secondary Data Analysis / Archival Study, but I would also like to gather information through other people.
 
-#### execution
+#### Execution
 (How did I execute this method and research?)
 
 I searched on internet and our school courses for information. 
@@ -49,7 +49,7 @@ My objective will be to gather information about security and have a basic under
 (How would I change my application to be more secure? / How will I implement the solutions?)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### results
+### Results
 (What are the results of this research?)
 
 ### Conclusion
