@@ -82,6 +82,10 @@ The search bar is also a problem, because it is far to long.
 This makes it so the bar doesn't resemble a search bar and thus gets overlooked. 
 Adding a magnifying glass icon in (or next to) the search bar could be used to partially solve this problem.
 
+![image](https://github.com/S3-Portfolio/General/assets/93527848/efca6449-ca9c-409f-9b7f-ad7fdb233d11)
+
+Above image shows the results from a static code analysis executed by SonarCloud.
+
 * Next steps
 
 The next step in this process would be to implement the given feedback.
