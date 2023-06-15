@@ -33,7 +33,7 @@ I also discussed this topic with a teacher and fellow students to gathered infor
 I looked at the Canvas course [^1] that gave information about security and which types of security concerns there are. I looked over the list and tried to guess which of these security concerns my application would have. The most likely security concern (in my opinion) that my application would have is "Identification and Authentication Failures". [^2] Because my application enables users to add information to my website for other users to see.
 So that is the reason for this research paper.
 
-My objective will be to gather information about security and have a basic understanding about different security issues. I also want to know which security concerns would come up from my application.
+My objective will be to gather information about security and have a basic understanding about different security issues. I also want to know which security concerns would come up from my application. (Hoe applicatie meer secure maken, zodat ik het OWASP niet krijg?)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Security concerns application
@@ -47,6 +47,8 @@ My objective will be to gather information about security and have a basic under
 
 ### Implementation security
 (How would I change my application to be more secure? / How will I implement the solutions?)
+
+(deelvragen niet kopjes maken / wat is er nodig om hoofdvraag te beantwoorden? Ook per deelvraag methode noemen en resultaten valideren)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Results
