@@ -71,14 +71,46 @@ When looking into these stereotypes, it becomes apparent why there hasn't been a
 Though it's true that most (or let's be honest, all) of our communication has been through two of the international students from the Finnish side.
 When looking at the communication thus far, the basis of the stereotypes seems true. 
 
-But there are also other dimensions to cultural differances besides cummunication. Well-known dimensions of cultural differences include those identified by Hofstede's cultural dimensions theory, the Seven Dimensions of Culture model, and other dimensions such as power distance, uncertainty avoidance, and gender egalitarianism. 
-Power distance and gender eqalitarianism are not really relevant to our group project, because we were all at the same power level. And as the only female Dutch student, I haven't had the feeling I was being threated differently to the others. 
+But there are also other dimensions to cultural differences besides cummunication. Well-known dimensions of cultural differences include those identified by Hofstede's cultural dimensions theory, the Seven Dimensions of Culture model, and other dimensions such as power distance, uncertainty avoidance, and gender egalitarianism. 
+Power distance and gender equalitarianism are not really relevant to our group project, because we were all at the same power level. And as the only female Dutch student, I haven't had the feeling I was being threated differently to the others. 
 Uncertainty avoidance is also less relevant, because we were making major decisions together and smaller decisions were made after getting feedback from the rest of the team. Everyone was also very open to answering questions, so even if there was anything uncertain, you chould easily ask someone else.
 
 [corporatefinanceinstitute.com](https://corporatefinanceinstitute.com/resources/management/hofstedes-cultural-dimensions-theory/) ,
 [mindtools.com](https://www.mindtools.com/a5ce21r/the-seven-dimensions-of-culture) ,
 [courses.lumenlearning.com](https://courses.lumenlearning.com/wm-principlesofmanagement/chapter/dimensions-of-cultural-difference-and-their-effect/)
 
+#### Hofstede's cultural dimensions theory
+Hofstede’s Cultural Dimensions Theory, developed by Geert Hofstede, is a framework used to understand the differences in culture across countries and to discern the ways that business is done across different cultures. 
+Hofstede identified six categories that define culture:
+* Power Distance Index: considers the extent to which inequality and power are tolerated.
+* Collectivism vs. Individualism: considers the degree to which societies are integrated into groups and their perceived obligations and dependence on groups.
+* Uncertainty Avoidance Index: considers the extent to which uncertainty and ambiguity are tolerated.
+* Femininity vs. Masculinity: considers the preference of society for achievement, attitude toward sexuality equality, behavior, etc.
+* Short-Term vs. Long-Term Orientation: considers the extent to which society views its time horizon.
+* Restraint vs. Indulgence: considers the extent and tendency for a society to fulfill its desires.
+
+Of these six categories I have already talked about three; Power distance (Power Distance Index), Gender equalitarianism (Femininity vs Masculinity) and Uncertainty avoidance (Uncertainty Avoidance Index).
+
+#### Seven Dimensions of Culture model
+The Seven Dimensions of Culture were identified by management consultants Fons Trompenaars and Charles Hampden-Turner, and the model was published in their 1997 book, "Riding the Waves of Culture."
+Trompenaars and Hampden-Turner concluded that what distinguishes people from one culture compared with another is where these preferences fall in one of the following seven dimensions:
+* Universalism versus particularism: Rules Versus Relationships.
+* Individualism versus communitarianism: The Individual Versus The Group.
+* Specific versus diffuse: How Far People Get Involved.
+* Neutral versus emotional: How People Express Emotions.
+* Achievement versus ascription: How People View Status.
+* Sequential time versus synchronous time: How People Manage Time.
+* Internal direction versus outer direction: How People Relate to Their Environment.
+
+Of these dimentions, only three are "different" for the cultures in this group project; Specific versus diffuse, Neutral versus emotional, Achievement versus ascription
+
+For the "specific versus diffuse" are Scandinavia, and the Netherlands on the specific side and is India[^1] on the diffuse side. This means that the Finnish and Dutch people like to keep their work and social life separated, while people from India don't have a harch seperation between the two. This didn't cause any problems regarding our group project though.
+
+For the "neutral versus emotional are the Netherlands and Finland on the neutral side and France on the emotional side. This means that French people express their emotions more (even at work), while people from the Netherlands and Finland rely more on reason. I did notice this in our group project, because the student from France voiced their opinion the most. This is however not a bad thing, because the rest was still able to give feedback on the ideas, so this ultimately didn't give us problems for our group project.
+
+For the "achievement versus ascription" is Scandinavia on the achievement side and France on the ascription. I don't really know if this became an issue regarding the group project, because this would be an internal problem for the other group. If I had to guess, I would say that it wasn't an issue, because otherwise we (as in the Dutch students) would have have gotten wind of it. 
+
+[^1]: Because India and Nepal share a lot of simalarities in culture, I have decided to see India and Nepal as the same regarding the Seven Dimentions of Culture model.
 ### Ethics
 
 Ethics in software engineering refers to the principles and values that guide the behavior of software engineers when designing, developing, testing, and maintaining software. Ethical considerations in software engineering include fairness, honesty, nonmaleficence, and beneficence, and should be integrated into the software development lifecycle. The Software Engineering Code of Ethics provides a set of guidelines for software engineers to follow when making ethical decisions.
