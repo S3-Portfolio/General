@@ -86,7 +86,10 @@ Adding a magnifying glass icon in (or next to) the search bar could be used to p
 
 Above image shows the results from a static code analysis executed by SonarCloud.
 
-(Uitleggen dat ik gekeken heb naar de bugs/errors en waarin die voorkwamen)
+The reason why the hotspots is E, is because there were some problems in my DockerFile. This does not intervere with my code however and is not a big issue. But because SonarCloud encountered an error in my DockerFile, it couldn't scan the rest of my code. That is why it's 0.0%.
+
+I have also done two front-end tests with Jest, but only one of them passed. The second one fails, because of the way I route that page. I get the error: *"TypeError: Cannot read properties of undefined (reading 'pathname')"*
+I have searched internet (and even asked AI for help), but I couldn't find a solution to fix this error.
 
 * Next steps
 
