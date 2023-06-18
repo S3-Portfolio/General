@@ -29,9 +29,35 @@ And the Scrum Master is responsible for promoting and supporting Scrum as define
 #### Can you explain two more agile methods and name a number of interesting features in them different from Scrum?
 Kanban: Kanban is based on visualizing and managing work. It uses boards to track work items and their status during the stages of development; to-do, busy, up for review and done. Kanban is based on continuous delivery. 
 
+The Kanban definition goes as follows: 
+"The Kanban Method is a means to design, manage, and improve flow systems for knowledge work. The method also allows organizations to start with their existing workflow and drive evolutionary change. They can do this by visualizing their flow of work, limit work in progress (WIP) and stop starting and start finishing.
+
+The Kanban Method gets its name from the use of kanban – visual signaling mechanisms to control work in progress for intangible work products."
+[Source](https://www.agilealliance.org/glossary/kanban/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'kanban))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
+
+Kanban has two types of principles; Change Management Principles and Service Delivery Principles.
+The Change Management Principles revolve around the fact that Kanban is structured to address the human tendency to resist change and include;
+* Start with what you do now – Understand current processes as they are actually practiced and respect existing roles, responsibilities and job titles.
+* Agree to pursue improvement through evolutionary change
+* Encourage acts of leadership at every level
+
+The Service Delivery Principles acknowledge that organizations are a collection of interdependent services, and to place the focus on the work, not the people doing the work and include;
+* Understand and focus on your customers’ needs and expectations
+* Manage the work; let people self-organize around it
+* Evolve policies to improve customer and business outcomes
+
 Lean: Lean is similar to Kanban but it focusus on eliminating waste and obstructions to workflow. It is optimized for continuous learning and improvement. 
 
-(Meer uitleg geven, uitgebreider)
+The Lean definition goes as follows:
+"Lean or Lean management is a business approach for maximizing customer value while minimizing waste. It is based on the principles of the Toyota Production System (TPS) and aims to create a culture of continuous improvement in an organization. "
+[Source](https://kanbanize.com/lean-management/what-is-lean-management)
+
+Lean has 5 management principles; Identify Value, Value Stream Mapping, Create a Continuous Workflow, Create a Pull System and Continuous Improvement.
+* Identify Value: decide what you want to deliver, then move on to the next step.
+* Value Stream Mapping: mapping the workflow of your company will show you where value is being generated and in what proportion different parts of the process do or do not produce value.
+* Create a Continuous Workflow: to make sure that each team's workflow remains smooth by breaking down work into smaller batches and visualizing the workflow so you can easily detect and remove process roadblocks.
+* Create a Pull System: work is pulled only if there is a demand for it. This lets you optimize resources’ capacity and deliver products or services only if there is an actual need.
+* Continuous Improvement: the most important one, you need to make sure that employees on every level are involved in continuously improving the process. This can be done by (for example) doing a daily stand-up-meeting.
 
 #### Do you know how software engineers work in practice with agile methods?
 Software engineers work with agile methods in a collaborative, iterative, and adaptable way to deliver value to customers quickly and efficiently. 
