@@ -59,20 +59,26 @@ The most important aspect of login security for my application would be: protect
 The login security for the admins need to be more secure, because admins can see some user information and have the authority to flag and ban users. This shouldn't be abused or be accesible to just anyone. For the users hashing passwords would be a good first step, but the admin login information should be secured through more steps. 
 
 #### Traceable user security
-(Explain traceable user security issue)
-
+Traceable user security is an issue regarding the saved changes on my website. When an user changes (or adds) something on my website, their change along with their username will be saved in the database. This in not a problem in and of itself, but chould be a problem later on. Users chould feel uncomftable that their information will be saved in the database, knowing that some users (aka admins) can freely look through it. To fix this I should first give users who want to change or add something to my website, that their information will be saved. This is to give users a choice regarding having their data saved and to discurage users who want to fool around on my website. 
 
 ### Prevention of identification and authentication failures
-(How will I implement the solutions?)
+There are a few solutions for identification and authentication failures.
+For my application these would be;
+* Where possible, implement multi-factor authentication to prevent automated credential stuffing, brute force, and stolen credential reuse attacks.
+* Do not ship or deploy with any default credentials, particularly for admin users.
+* Implement weak password checks, such as testing new or changed passwords against the top 10,000 worst passwords list.
+* Limit or increasingly delay failed login attempts, but be careful not to create a denial of service scenario. Log all failures and alert administrators when credential stuffing, brute force, or other attacks are detected.
+* Use a server-side, secure, built-in session manager that generates a new random session ID with high entropy after login. Session identifier should not be in the URL, be securely stored, and invalidated after logout, idle, and absolute timeouts.
+* Ensure registration, credential recovery, and API pathways are hardened against account enumeration attacks by using the same messages for all outcomes.
 
-(deelvragen niet kopjes maken / wat is er nodig om hoofdvraag te beantwoorden? Ook per deelvraag methode noemen en resultaten valideren)
+These solutions would be in place to make sure that admin logins are as secure as posible, so that their "power" doesn't get abused. The user login would also be more secure and the user experiance would be better, knowing that all user information is save. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Results
-(What are the results of this research?)
+I can prevent identification and authentication failures in my application by implementing a more secure login system and session usage. Not only would this make the user login information more secure, because their passwords cannot be to easy, but their 
 
 ### Conclusion
-(What is the conclusion of this research?)
+My application would benifit greatly by increasing security regarding identification and authentication.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### References
