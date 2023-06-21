@@ -71,14 +71,15 @@ For my application these would be;
 * Use a server-side, secure, built-in session manager that generates a new random session ID with high entropy after login. Session identifier should not be in the URL, be securely stored, and invalidated after logout, idle, and absolute timeouts.
 * Ensure registration, credential recovery, and API pathways are hardened against account enumeration attacks by using the same messages for all outcomes.
 
-These solutions would be in place to make sure that admin logins are as secure as posible, so that their "power" doesn't get abused. The user login would also be more secure and the user experiance would be better, knowing that all user information is save. 
+These solutions would be in place to make sure that admin logins are as secure as posible, so that their "power" doesn't get abused. The user login would also be more secure and the user experience would be better, knowing that all user information is save. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Results
-I can prevent identification and authentication failures in my application by implementing a more secure login system and session usage. Not only would this make the user login information more secure, because their passwords cannot be to easy, but their 
+I can prevent identification and authentication failures in my application by implementing a more secure login system and session usage. Not only would this make the user login information more secure, because their passwords cannot be too easy, but their information stored in the database is also more secure. Users wouldn't be able to misuse their (or other users') acount and admin login information cannot be obtained via the database or my application. 
+These security measures would be put in place by implementing sessions with changing id, user registration that doesn't let users pick a weak password, having the traceable user information under lock and key and having an aditional layer of security regarding the admin login. All this would result in a more secure website and thus a better user experience. 
 
 ### Conclusion
-My application would benifit greatly by increasing security regarding identification and authentication.
+My application would benifit greatly by increasing security regarding identification and authentication. And writing this research paper has made more clear to me the dangers of security issues. The ways to prevent these issues were also good to know and to think about how to implement them. Not every website needs to have the same amount of security, but it is important to think about the level of security needed for your application.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### References
